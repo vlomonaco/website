@@ -1,2 +1,2 @@
 # website
-my Personal website: http://vincenzolomonaco.com/
+my personal website: http://vincenzolomonaco.com/
