@@ -13,7 +13,7 @@ In this page you will find everything you need to know about my **research inter
 <h3 id="background" style="margin-bottom: 30px;">Background</h3> 
 
 I have a strong background in Data mining and Machine Learning. I have always felt at ease in manipulating, managing and analyzing large collections of data and I have successfully applied this knowledge in the context of biological systems.
-My own interest has then evolved towards the huge field of Artificial Intelligence, having always been intrigued by the idea of building a machine with superhuman abilities. I am now fully engaged in the study of **Deep Learning**, **Continuous/Lifelong learning**, and their application in **Computer Vision** and **Internet-of-things**.
+My own interest has then evolved towards the huge field of Artificial Intelligence, having always been intrigued by the idea of building a machine with superhuman abilities. I am now fully engaged in the study of **Deep Learning**, **Continuous/Lifelong learning**, and their application in **Computer Vision** and **Internet-Of-Things**.
 
 <a href="#interests"></a>
 <h3 id="interests" style="margin-bottom: 30px;">Research interests</h3>
