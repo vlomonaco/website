@@ -20,7 +20,7 @@ I was born in S. Giovanni Rotondo (FG), Italy in 1991. I spent my childhood in B
 
 <img src="{{ site.baseurl }}images/cv_infographics.png" alt="cv_infographics" style="width:100%;">
 
-You can find more information about my education and professional experiences on my <a href="https://it.linkedin.com/in/vincenzolomonaco">Linkedin profile</a> or you can download my official cv in the <a href="https://dl.dropboxusercontent.com/u/31994059/CV_Vincenzo_Lomonaco.pdf">pdf format</a>.
+You can find more information about my education and professional experiences on my <a href="https://it.linkedin.com/in/vincenzolomonaco">Linkedin profile</a> or you can download my official 2-pages cv in the <a href="">pdf forma://www.dropbox.com/s/417excy4scnwmxx/CV_Vincenzo_Lomonaco.pdf?dl=0t</a>.
 
 <a href="#contacts"></a>
 <h3 style="margin-bottom:30px;" id="contacts">Contacts</h3>
