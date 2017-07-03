@@ -5,7 +5,11 @@ categories: [blogpost]
 tags: [data scientist, deep learning, tools]
 ---
 
-In this post we will cover my preferred setup for `Data Science` and `Deep Learning`. Of course this would be not the ideal setup for every one out there, depending also on the specifics of each project, but I found it very general and useful for almost anything I do.
+During the last few years as a PhD student in AI and Deep Learning I met a lot of smart people and good data scientist both in the Academia and in the Industry. Still, I've always been surprise of how much of these folks still work with old tools and bad coding habits. Even though in the end is just about personal choices and tastes, I still believe that for high productivity and extra-safety measures some tools are better than others.
+
+Moreover, especially if your are a young practitioner, it's very easy to just follow your enthusiasm and start learning to solve interesting problems but with the <strong>wrong tools or attitude</strong>. In fact, as for playing a music instrument, you risk to get used to a poor designed set of tools and consequent bad behaviors which are much more difficult to change later on then starting directly with the right foot.
+
+In this post I would like to share with you my preferred setup for `Data Science` and `Deep Learning`, so that you can jump right on this beautiful field without incurring in unnecessary headaches due to a poor tools setup. Of course this would be not the ideal arrangement for everyone out there, depending also on the specifics of each project, but I found it very general and useful for almost anything I do.
 
 In a nutshell we'll need:
 
