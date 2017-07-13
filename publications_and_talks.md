@@ -5,7 +5,7 @@ layout: page
 In this page you will find my **published** and **unpublished** works. Please, if you're considering taking some ideas even from the unpublished works, be nice and cite me or provide a link to my homepage, thank you very much :-)
 
 <p style="background: rgba(0,0,0,0.06) none repeat scroll 0% 0%; border: 1px solid rgb(222, 222, 222); padding: 1em; border-radius: 5px; text-align: center; margin-top:20px">
-<a href="#latest">Latest Works</a> &nbsp; | &nbsp; <a href="#complete">Complete list of Publications</a> &nbsp; | &nbsp; <a href="#unpublished">Other Works</a>
+<a href="#latest">Latest Works</a> &nbsp; | &nbsp; <a href="#complete">Complete list of Publications</a> &nbsp; | &nbsp; <a href="#unpublished">Other Works</a> | &nbsp; <a href="#talks">Talks</a>
 </p>
 
 <h3 id="projects" style="margin-bottom: 30px;">Latest Works</h3>
@@ -41,6 +41,22 @@ Lomonaco Vincenzo et al. **[UCbase 2.0: ultraconserved sequences database (2014 
 * Master Thesis: *"[Deep learning for computer vision: a comparison between convolutional neural networks and hierarchical temporal memories on object recognition tasks][md-thesis]"*. University of Bologna, 2015.
 
 * Bachelor Thesis: *"[Progettazione, realizzazione ed accessibilita di un Database biomolecolare sulle sequenze ultraconservate del genoma umano][thesis]"*. University of Modena and Reggio Emilia, 2013.
+
+<h3 id="talks" style="margin-bottom: 30px;">Talks</h3>
+
+<hr style="margin-top:30px;margin-bottom:20px;width:100%">
+
+<div>
+	<img src ='{{ site.baseurl }}images/iit_talk.jpg' style="width:150px;height:83px; float:left;margin-right:30px"/>
+	<p>
+		<strong><a href="https://www.slideshare.net/VincenzoLomonaco/continuous-unsupervised-training-of-deep-architectures">Continuous Unsupervised Training of Deep Architectures</a></strong><br>
+		<em>Istituto Italiano di Tecnologia (IIT), Genova</em>.
+		6th July 2017.<br> 
+		[<a href="https://www.slideshare.net/VincenzoLomonaco/continuous-unsupervised-training-of-deep-architectures">slides</a>]
+	</p>
+</div>
+
+<hr style="margin-top:30px;margin-bottom:20px;width:100%">
 
 [core50-arxiv]: https://arxiv.org/abs/1705.03550
 [schol]: http://scholar.google.it/citations?user=rQLINtQAAAAJ&hl=it
