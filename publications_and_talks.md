@@ -47,7 +47,7 @@ Lomonaco Vincenzo et al. **[UCbase 2.0: ultraconserved sequences database (2014 
 <hr style="margin-top:30px;margin-bottom:20px;width:100%">
 
 <div>
-	<img src ='{{ site.baseurl }}images/iit_talk.jpg' style="width:150px;height:83px; float:left;margin-right:30px"/>
+	<img src ='/{{ site.baseurl }}images/iit_talk.jpg' style="width:150px;height:83px; float:left;margin-right:30px"/>
 	<p>
 		<strong><a href="https://www.slideshare.net/VincenzoLomonaco/continuous-unsupervised-training-of-deep-architectures">Continuous Unsupervised Training of Deep Architectures</a></strong><br>
 		<em>Istituto Italiano di Tecnologia (IIT), Genova</em>.
