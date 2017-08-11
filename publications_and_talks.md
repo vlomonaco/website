@@ -13,7 +13,7 @@ In this page you will find my **published** and **unpublished** works. Please, i
 <hr style="margin-top:30px;margin-bottom:30px;width:100%">
 
 Lomonaco Vincenzo and Maltoni Davide. **[CORe50: a New Dataset and Benchmark for Continuous Object Recongition][core50-arxiv]**. arXiv preprint arXiv:1705.03550, 2017. <br>
-\[&nbsp;[arXiv preprint][semi-sup-tech] \]<br>
+\[&nbsp;[arXiv preprint][semi-sup-tech] | [video-presentation][core50-video] \]<br>
 
 <hr style="margin-top:30px;margin-bottom:30px;width:100%">
 
@@ -73,3 +73,4 @@ Lomonaco Vincenzo et al. **[UCbase 2.0: ultraconserved sequences database (2014 
 [semi-sup-tech]: http://arxiv.org/abs/1511.03163
 [md-thesis]: http://amslaurea.unibo.it/9095/
 [thesis]: http://www.isgroup.unimore.it/wp-content/uploads/tesi/lomonaco_tesi.pdf
+[core50-video]: https://www.youtube.com/watch?v=vAGpDx9U9Qk&t=2s
