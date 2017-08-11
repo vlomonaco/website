@@ -51,6 +51,6 @@ I'm currently working on the following projects:
 <a href="#pastprojects"></a>
 <h3 id="pastprojects" style="margin-bottom: 30px;">Past projects</h3>
 
-Available soon.. In the meanwhile you can check my [Linkedin][linkedin] profile.
+All the past projects as a graduate and PhD student are available at my [Linkedin][linkedin] page!
 
 [linkedin]: https://www.linkedin.com/in/vincenzo

@@ -10,6 +10,8 @@ In this page you will find my **published** and **unpublished** works. Please, i
 
 <h3 id="projects" style="margin-bottom: 30px;">Latest Works</h3>
 
+<hr style="margin-top:30px;margin-bottom:20px;width:100%">
+
 Lomonaco Vincenzo and Maltoni Davide. **[CORe50: a New Dataset and Benchmark for Continuous Object Recongition][core50-arxiv]**. arXiv preprint arXiv:1705.03550, 2017. <br>
 \[&nbsp;[arXiv preprint][semi-sup-tech] \]<br>
 
