@@ -10,27 +10,27 @@ In this page you will find my **published** and **unpublished** works. Please, i
 
 <h3 id="projects" style="margin-bottom: 30px;">Latest Works</h3>
 
-<hr style="margin-top:30px;margin-bottom:20px;width:100%">
+<hr style="margin-top:30px;margin-bottom:30px;width:100%">
 
 Lomonaco Vincenzo and Maltoni Davide. **[CORe50: a New Dataset and Benchmark for Continuous Object Recongition][core50-arxiv]**. arXiv preprint arXiv:1705.03550, 2017. <br>
 \[&nbsp;[arXiv preprint][semi-sup-tech] \]<br>
 
-<hr style="margin-top:30px;margin-bottom:20px;width:100%">
+<hr style="margin-top:30px;margin-bottom:30px;width:100%">
 
 Lomonaco Vincenzo and Maltoni Davide. **[Semi-supervised Tuning from Temporal Coherence][semi-sup-tech]**. 23rd International Conference on Pattern Recognition, 2016. <br>
 \[&nbsp;[article][semi-sup] | &nbsp;[arXiv extended version][semi-sup-tech] | [poster][inc-strat-poster]&nbsp;\] <br>
 
-<hr style="margin-top:30px;margin-bottom:20px;width:100%">
+<hr style="margin-top:30px;margin-bottom:30px;width:100%">
 
 Lomonaco Vincenzo and Maltoni Davide. **[Comparing Incremental Learning Strategies for Convolutional Neural Networks][inc-strat-paper]**. IAPR Workshop on Artificial Neural Networks in Pattern Recognition. Springer International Publishing, 2016. <br>
 \[&nbsp;[article][inc-strat-paper] | [poster][inc-strat-poster] |  [slides][inc-strat-slides] | [video-presentation][inc-strat-video]&nbsp;]<br>
 
-<hr style="margin-top:30px;margin-bottom:20px;width:100%">
+<hr style="margin-top:30px;margin-bottom:30px;width:100%">
 
 Lomonaco Vincenzo et al. **[UCbase 2.0: ultraconserved sequences database (2014 update)][ucbase]**. Database 2014 (2014): bau062.<br>
 \[&nbsp;[article][ucbase]&nbsp;\] <br>
 
-<hr style="margin-top:30px;margin-bottom:20px;width:100%">
+<hr style="margin-top:30px;margin-bottom:30px;width:100%">
 
 <h3 id="projects" style="margin-bottom: 30px;">Complete list of Publications</h3>
 
