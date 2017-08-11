@@ -17,6 +17,6 @@ Be sure you subscribe to the [RSS feed][rss] to be always updated! :-)
 - **[ Sep 17, 2016 ]** A new paper is out: "[Comparing Incremental Learning Strategies for Convolutional Neural Networks][blog]".<br>
 
 
-[blog]:    	
+[blog]:    	https://medium.com/feed/@vlomonaco
 [deep-r]: 	https://www.packtpub.com/big-data-and-business-intelligence/deep-learning-r-video
 [rss]:		https://medium.com/feed/@vlomonaco
