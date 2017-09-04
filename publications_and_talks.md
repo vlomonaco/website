@@ -12,7 +12,7 @@ In this page you will find my **published** and **unpublished** works. Please, i
 
 <hr style="margin-top:30px;margin-bottom:30px;width:100%">
 
-Lomonaco Vincenzo and Maltoni Davide. **[CORe50: a New Dataset and Benchmark for Continuous Object Recongition][core50-arxiv]**. arXiv preprint arXiv:1705.03550, 2017. <br>
+Lomonaco Vincenzo and Maltoni Davide. **[CORe50: a New Dataset and Benchmark for Continuous Object Recongition][core50-arxiv]**. 1st Annual Conference on Robot Learning, 2017. <br>
 \[&nbsp;[arXiv preprint][semi-sup-tech] | [video-presentation][core50-video] \]<br>
 
 <hr style="margin-top:30px;margin-bottom:30px;width:100%">
