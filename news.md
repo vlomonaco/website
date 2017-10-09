@@ -10,7 +10,7 @@ Be sure you subscribe to the [RSS feed][rss] to be always updated! :-)
 
 - **[ October 4, 2017 ]** My new Medium story "[Why Continuous Learning is the key towards Machine Intelligence][continuousAIpost]” is out! Let know your thoughts about it!
 
-- **[ October 1, 2017 ]** Just landed in US. I'm gonna be spending 6 month @ [Purdue University][purdue], Indiana, under the supervision of prof. Eugenio Culurciello! Let me know if you are around!
+- **[ October 1, 2017 ]** Just landed in US. I'm gonna be spending 6 month @ [Purdue University][purdue], Indiana, under the supervision of prof. [Eugenio Culurciello][eugenio]! Let me know if you are around!
 
 - **[ Sept 4, 2017 ]** Our latest paper "[CORe50: a New Dataset and Benchmark for Continuous Object Recognition][core50]” has just been accepted for [CoRL2017][corl2017]! This means I'll be in California, Mountain View in November!
 
@@ -30,3 +30,4 @@ Be sure you subscribe to the [RSS feed][rss] to be always updated! :-)
 [corl2017]: http://www.robot-learning.org/home
 [continuousAIpost]: https://medium.com/@vlomonaco/why-continuous-learning-is-the-key-towards-machine-intelligence-1851cb57c308
 [purdue]: http://purdue.edu/
+[eugenio]: https://e-lab.github.io/html/contact-eugenio-culurciello.html
