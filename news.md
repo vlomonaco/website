@@ -8,7 +8,11 @@ Be sure you subscribe to the [RSS feed][rss] to be always updated! :-)
 
 **Latest News**:
 
-- **[ December 12, 2017 ]** My new paper about CL in Software Engineering "[A Machine Learning Approach for Continuous Development][raia]” is out! :-)
+- **[ June 25, 2018 ]** My new paper "[Continuous Learning in Single-Incremental-Task Scenarios](https://arxiv.org/abs/1806.08568)” is out! Check it out and let me know that you think! :-)
+
+- **[ April 23, 2018 ]** My new blog post about AI democratization, co-written with the amazing Marta Ziosi is out! Check it out [here](https://medium.com/@vlomonaco/on-the-myth-of-ai-democratization-a472115cb5f1)!
+
+- **[ December 12, 2017 ]** My new paper about CL in Software Engineering "[A Machine Learning Approach for Continuous Development][raia]” is out!! 
 
 - **[ October 4, 2017 ]** My new Medium story "[Why Continuous Learning is the key towards Machine Intelligence][continuousAIpost]” is out! Let know your thoughts about it!
 

@@ -12,8 +12,13 @@ In this page you can give a quick glance at my **published** works. Most of them
 
 <hr style="margin-top:30px;margin-bottom:30px;width:100%">
 
+Maltoni Davide and Lomonaco Vincenzo. **[Continuous Learning in Single-Incremental-Task Scenarios][core50-arxiv]**. Submitted to *Neural Networks*, Elsevier. <br>
+\[&nbsp;[arXiv pre-print](https://arxiv.org/abs/1806.08568) \]<br>
+
+<hr style="margin-top:30px;margin-bottom:30px;width:100%">
+
 Lomonaco Vincenzo and Maltoni Davide. **[CORe50: a New Dataset and Benchmark for Continuous Object Recongition][core50-arxiv]**. 1st Annual Conference on Robot Learning, 2017. <br>
-\[&nbsp; [article][corl2017] | [arXiv extended version][semi-sup-tech] | [poster][corl2017-poster] | [video-presentation][core50-video] \]<br>
+\[&nbsp;[article][corl2017] | [arXiv extended version][semi-sup-tech] | [poster][corl2017-poster] | [video-presentation][core50-video] \]<br>
 
 <hr style="margin-top:30px;margin-bottom:30px;width:100%">
 
@@ -63,6 +68,30 @@ Lomonaco Vincenzo et al. **[UCbase 2.0: ultraconserved sequences database (2014 
 		<em>Istituto Italiano di Tecnologia (IIT), Genova</em>.
 		6th July 2017.<br> 
 		[<a href="https://www.slideshare.net/VincenzoLomonaco/continuous-unsupervised-training-of-deep-architectures">slides</a>]
+	</p>
+</div>
+
+<hr style="margin-top:30px;margin-bottom:20px;width:100%">
+
+<div>
+	<img src ='/{{ site.baseurl }}images/cl_ensta.jpg' style="width:150px;height:83px; float:left;margin-right:30px"/>
+	<p>
+		<strong><a href="https://www.slideshare.net/VincenzoLomonaco/continuous-learning-with-deep-architectures">Continuous Learning with Deep Architectures</a></strong><br>
+		<em>Neurala, Boston</em>.
+		25th March 2017.<br> 
+		[<a href="https://www.slideshare.net/VincenzoLomonaco/continuous-learning-with-deep-architectures">slides</a>]
+	</p>
+</div>
+
+<hr style="margin-top:30px;margin-bottom:20px;width:100%">
+
+<div>
+	<img src ='/{{ site.baseurl }}images/cl_ensta.jpg' style="width:150px;height:83px; float:left;margin-right:30px"/>
+	<p>
+		<strong><a href="https://www.slideshare.net/VincenzoLomonaco/continuous-learning-with-deep-architectures">Continuous Learning with Deep Architectures</a></strong><br>
+		<em>Autonomous System and Robotics, ENSTA ParisTech, Paris</em>.
+		17th May 2018.<br> 
+		[<a href="https://www.slideshare.net/VincenzoLomonaco/continuous-learning-with-deep-architectures">slides</a>]
 	</p>
 </div>
 
