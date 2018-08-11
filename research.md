@@ -12,7 +12,7 @@ In this page you will find everything you need to know about my **research inter
 <a href="#interests"></a>
 <h3 id="interests" style="margin-bottom: 30px;">Research interests</h3>
 
-I have a strong background in Parallel Computing and Data Analytics. My interest has then evolved towards the huge field of Artificial Intelligence, having always been intrigued by the idea of building machines with superhuman abilities. I am now fully engaged in the study of Deep Learning, Continuous/Lifelong learning, and their application in Computer Vision and Internet-Of-Things.
+I have a strong background in Parallel Computing and Data Analytics. My interest has then evolved towards the huge field of Artificial Intelligence, having always been intrigued by the idea of building machines with superhuman abilities. I am now fully engaged in the study of Deep Learning, Continual/Lifelong learning, and their application in Computer Vision and Internet-Of-Things.
 
 In my PhD I have been focusing on the following questions:
 
@@ -20,7 +20,7 @@ In my PhD I have been focusing on the following questions:
 
 * What does it really mean **Unsupervised Learning**? How much is it important for a learning algorithm? Is it the main feature our brain uses to solve almost any new problem it encounters?
 
-* How much **Incremental** and **Continuous Learning** philosophies should be embraced? Are them useful to help generalization and construct a sophisticate understanding of the external world?
+* How much **Incremental** and **Continual Learning** philosophies should be embraced? Are them useful to help generalization and construct a sophisticate understanding of the external world?
 
 * How currently models can be scaled and shaped towards a single and flexible **universal learning algorithm**? How to automatically discover classes and adjust the architecture to solve a task previously unknown?
 
@@ -29,8 +29,8 @@ In my PhD I have been focusing on the following questions:
 
 I'm currently working on the following projects:
 
-* **Evaluating and comparing HTMs and CNNs in continuous/lifelong learning scenarios**.
-	I'm currently working to evaluate and compare HTMs and CNNs in continuous/lifelong learning scenarios. This is intriguing for the very nature of the task, which has a biological plausibility. We are primarily focused on tasks in Computer Vision which include temporal coherent data stream.
+* **Evaluating and comparing HTMs and CNNs in continual/lifelong learning scenarios**.
+	I'm currently working to evaluate and compare HTMs and CNNs in continual/lifelong learning scenarios. This is intriguing for the very nature of the task, which has a biological plausibility. We are primarily focused on tasks in Computer Vision which include temporal coherent data stream.
 
 * **New benchmarks and evaluation techniques for temporal coherent learning algorithms**.
   	Temporal coherence has already shown in the past to be a good surrogate of a supervised signal. However, in literature there are few example of simple and open video benchmark for object recognition. The main goal of this project is to create a new benchmark to train deep learning models using temporal coherence.
@@ -43,7 +43,7 @@ I'm currently working on the following projects:
 
 In the past I've worked on the following projects:
 
-* **Application of AI and Continuous Learning to Software Engineering**.
+* **Application of AI and Continual Learning to Software Engineering**.
   	Software Engineering is not one of the first field which pops in mind when thinking at the application of AI algorithms. Yet, many recent works have shown that, for specific tasks such as user-stories disambiguation, bug severity prediction, auto-bug repair, etc.. ML systems can be very useful. In this project the idea was to propose a novel, flexible and extensible  AI framework for Agile-based continuous development projects which can learn and improve after deployment, adapting and refining its prediction capabilities based on previous development cycle.
 
 * **Scaling up the HTM algorithm**.

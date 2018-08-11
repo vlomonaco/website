@@ -2,7 +2,7 @@
 title:  "Publications & talks"
 layout: page
 ---
-In this page you can give a quick glance at my **published** works. Most of them are in the context of **Deep Continuous Learning**, the subject of my PhD dissertation, or its application to various contexts such as *Internet of Things* or *Software Engineering*.
+In this page you can give a quick glance at my **published** works. Most of them are in the context of **Continual deep Learning**, the subject of my PhD dissertation, or its application to various contexts such as *Internet of Things* or *Software Engineering*.
 
 <p style="background: rgba(0,0,0,0.06) none repeat scroll 0% 0%; border: 1px solid rgb(222, 222, 222); padding: 1em; border-radius: 5px; text-align: center; margin-top:20px">
 <a href="#selected">Selected Works</a> &nbsp; | &nbsp; <a href="#recent">Other Recent Works</a> &nbsp; | &nbsp; <a href="#complete">Complete list of Publications</a> &nbsp; | &nbsp; <a href="#talks">Talks</a>

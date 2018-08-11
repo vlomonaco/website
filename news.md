@@ -3,7 +3,7 @@ title:  "News"
 layout: page
 ---
 
-In this page you will find the news you **can't miss** about **me** and **my work**! For personal views about *AI*, *Continuous Deep Learning* and so on you can follow me at my [Blog][blog].
+In this page you will find the news you **can't miss** about **me** and **my work**! For personal views about *AI*, *Continual Deep Learning* and so on you can follow me at my [Blog][blog].
 Be sure you subscribe to the [RSS feed][rss] to be always updated! :-)
 
 **Latest News**:
