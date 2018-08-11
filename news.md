@@ -8,6 +8,8 @@ Be sure you subscribe to the [RSS feed][rss] to be always updated! :-)
 
 **Latest News**:
 
+- **[ August 1, 2018 ]** I'll be in Paris for the whole month to start writing my dissertation on **Continual Learning with Deep Architecture** in the [Autonomous Systems and Robotics lab](http://asr.ensta.fr/) under the supervision of prof. [David Filliat](http://perso.ensta-paristech.fr/~filliat/eng/)! Let me know if you are around!
+
 - **[ June 25, 2018 ]** My new paper "[Continuous Learning in Single-Incremental-Task Scenarios](https://arxiv.org/abs/1806.08568)” is out! Check it out and let me know that you think! :-)
 
 - **[ April 23, 2018 ]** My new blog post about AI democratization, co-written with the amazing Marta Ziosi is out! Check it out [here](https://medium.com/@vlomonaco/on-the-myth-of-ai-democratization-a472115cb5f1)!
