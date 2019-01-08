@@ -12,7 +12,12 @@ In this page you can give a quick glance at my **published** works. Most of them
 
 <hr style="margin-top:30px;margin-bottom:30px;width:100%">
 
-Maltoni Davide and Lomonaco Vincenzo. **[Continuous Learning in Single-Incremental-Task Scenarios][core50-arxiv]**. Submitted to *Neural Networks*, Elsevier. <br>
+Lomonaco Vincenzo, Diaz Rodriguez Natalia , Filliat David and Maltoni Davide. **[Don't forget, there is more than forgetting: new metrics for Continual Learning](https://sites.google.com/view/continual2018/submissions)**. Continual Learning Workshop (NeurIPS 2018). <br>
+\[&nbsp;[article](https://arxiv.org/pdf/1810.13166) | [poster](https://www.slideshare.net/VincenzoLomonaco/dont-forget-there-is-more-than-forgetting-new-metrics-for-continual-learning) | [slides](https://drive.google.com/open?id=1skMz1vIWniBlpb-ZOshAkTsvIdKNMdWE) \]<br>
+
+<hr style="margin-top:30px;margin-bottom:30px;width:100%">
+
+Maltoni Davide and Lomonaco Vincenzo. **[Continuous Learning in Single-Incremental-Task Scenarios][core50-arxiv]**. Under review, *Neural Networks* Elsevier Journal. <br>
 \[&nbsp;[arXiv pre-print](https://arxiv.org/abs/1806.08568) \]<br>
 
 <hr style="margin-top:30px;margin-bottom:30px;width:100%">
@@ -36,8 +41,13 @@ Lomonaco Vincenzo and Maltoni Davide. **[Comparing Incremental Learning Strategi
 
 <hr style="margin-top:30px;margin-bottom:30px;width:100%">
 
-Carpineti Claudia, Lomonaco Vincenzo, Bedogni Luca, Di Felice Marco and Bononi Luciano. **Custom Dual Transportation Mode Detection by Smartphone Devices Exploiting Sensor Diversity**. IEEE International Conference on Pervasive Computing and Communications Workshops, 2018. <br>
-\[ Yet to be published \]<br>
+Lomonaco Vincenzo, Trotta Angelo, Ziosi Marta, De Dios Yáñez Ávila Juan, Díaz-Rodríguez Natalia. **[Intelligent Drone Swarm for Search and Rescue Operations at Sea](https://ieeexplore.ieee.org/document/8480119/)**. AI for Social Good Workshop (NeurIPS 2018). <br>
+\[ [article](https://arxiv.org/pdf/1811.05291) \]<br>
+
+<hr style="margin-top:30px;margin-bottom:30px;width:100%">
+
+Carpineti Claudia, Lomonaco Vincenzo, Bedogni Luca, Di Felice Marco and Bononi Luciano. **[Custom Dual Transportation Mode Detection by Smartphone Devices Exploiting Sensor Diversity](https://ieeexplore.ieee.org/document/8480119/)**. IEEE International Conference on Pervasive Computing and Communications Workshops, 2018. <br>
+\[ [article](https://ieeexplore.ieee.org/document/8480119/) \]<br>
 
 <hr style="margin-top:30px;margin-bottom:30px;width:100%">
 
@@ -91,6 +101,30 @@ Lomonaco Vincenzo et al. **[UCbase 2.0: ultraconserved sequences database (2014 
 		<strong><a href="https://www.slideshare.net/VincenzoLomonaco/continuous-learning-with-deep-architectures">Continuous Learning with Deep Architectures</a></strong><br>
 		<em>Autonomous System and Robotics, ENSTA ParisTech, Paris</em>.
 		17th May 2018.<br> 
+		[<a href="https://www.slideshare.net/VincenzoLomonaco/continuous-learning-with-deep-architectures">slides</a>]
+	</p>
+</div>
+
+<hr style="margin-top:30px;margin-bottom:20px;width:100%">
+
+<div>
+	<img src="http://image.slidesharecdn.com/7dm9g5gerdeg7nt0x1e5-signature-964bd2753428c221a3efd63f5417ac54041fcb2153cdd429a6ed2a5e06d0c548-poli-190107115131/95/continual-learning-with-deep-architectures-workshop-computer-visioners-conference-2018-1-638.jpg?cb=1546862061" style="width:150px;height:83px; float:left;margin-right:30px"/>
+	<p>
+		<strong><a href="https://www.aibooster.com.ua/cth_speaker/vincenzo-lomonaco/">Continual Learning with Deep Architectures - Workshop</a></strong><br>
+		<em>Computer VISIONers Conference, Kyiv, Ukraine</em>.
+		6th October 2018.<br> 
+		[<a href="https://www.slideshare.net/VincenzoLomonaco/continuous-learning-with-deep-architectures">slides</a>]
+	</p>
+</div>
+
+<hr style="margin-top:30px;margin-bottom:20px;width:100%">
+
+<div>
+	<img src="https://image.slidesharecdn.com/frameworksfordeeplearning-190107120355/95/opensource-frameworks-for-deep-learning-an-overview-1-638.jpg?cb=1546862795" style="width:150px;height:83px; float:left;margin-right:30px"/>
+	<p>
+		<strong><a href="https://www.aibooster.com.ua/cth_speaker/vincenzo-lomonaco/">Open-Source Frameworks for Deep Learning: an Overview</a></strong><br>
+		<em>Alma Mater Studiorum - University of Bologna, Cesena, Italy</em>.
+		13th December 2018.<br> 
 		[<a href="https://www.slideshare.net/VincenzoLomonaco/continuous-learning-with-deep-architectures">slides</a>]
 	</p>
 </div>
