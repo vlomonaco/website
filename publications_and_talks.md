@@ -2,7 +2,7 @@
 title:  "Publications & talks"
 layout: page
 ---
-In this page you can give a quick glance at my **published** works. Most of them are in the context of **Continual Deep Learning**, the subject of my PhD dissertation, or its application to various contexts such as *Internet of Things* or *Software Engineering*.
+In this page you can give a quick glance at my **published** works. Most of them are in the context of **Continual Deep Learning**, the subject of my PhD dissertation, or its application to various contexts such as *Internet of Things* or *Robotics*.
 
 <p style="background: rgba(0,0,0,0.06) none repeat scroll 0% 0%; border: 1px solid rgb(222, 222, 222); padding: 1em; border-radius: 5px; text-align: center; margin-top:20px">
 <a href="#selected">Selected Works</a> &nbsp; | &nbsp; <a href="#recent">Other Recent Works</a> &nbsp; | &nbsp; <a href="#complete">Complete list of Publications</a> &nbsp; | &nbsp; <a href="#talks">Talks</a>
@@ -17,8 +17,8 @@ Lomonaco Vincenzo, Diaz Rodriguez Natalia , Filliat David and Maltoni Davide. **
 
 <hr style="margin-top:30px;margin-bottom:30px;width:100%">
 
-Maltoni Davide and Lomonaco Vincenzo. **[Continuous Learning in Single-Incremental-Task Scenarios][core50-arxiv]**. Under review, *Neural Networks* Elsevier Journal. <br>
-\[&nbsp;[arXiv pre-print](https://arxiv.org/abs/1806.08568) \]<br>
+Maltoni Davide and Lomonaco Vincenzo. **[Continuous Learning in Single-Incremental-Task Scenarios][core50-arxiv]**, vol. 116, pp. 56-73, *Neural Networks*, 2019. <br>
+\[&nbsp;[arXiv pre-print](https://arxiv.org/abs/1806.08568) | [article](https://www.sciencedirect.com/science/article/pii/S0893608019300838) \]<br>
 
 <hr style="margin-top:30px;margin-bottom:30px;width:100%">
 
