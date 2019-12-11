@@ -22,7 +22,7 @@ For more than 3 years he has been working as a teaching assistant for the “Mac
 
 <!--<img src="/{{ site.baseurl }}images/cv_infographics.png" alt="cv_infographics" style="width:100%;">-->
 
-<iframe src="http://www.slideshare.net/slideshow/embed_code/key/s9HfjCZgPBhrb4" width="100%" height="600" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="http://www.slideshare.net/slideshow/embed_code/key/s9HfjCZgPBhrb4" width="100%" height="600" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
 
 <br>
 You can find more information about my education and professional experiences on my <a href="https://it.linkedin.com/in/vincenzolomonaco">Linkedin profile</a> or you can download my official 3-pages cv in the <a href="//www.slideshare.net/slideshow/embed_code/key/s9HfjCZgPBhrb4"> pdf format</a>.
