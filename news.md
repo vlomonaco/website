@@ -8,6 +8,12 @@ Be sure you subscribe to the [RSS feed][rss] to be always updated! :-)
 
 **Latest News**:
 
+- **[ September 16, 2019 ]** I've just moved to the Redwood City, California to collaborate with [Numenta](http://www.numenta.com) as a Visiting Research Scientist on Neuroscience-Inspired approches to AI and Continual Learning!
+
+- **[ April 3, 2019 ]** I just got my PhD in Computer Science with the Dissertation ["Continual Learning with Deep Architectures"](https://www.facebook.com/vincenzo.lomonaco.91/posts/10218850135475238?__xts__%5B0%5D=68.ARDSEg4GH0jd_pfeg4uBESS8uSGgI-3QrJNbjem4riY8IC9by8ELlhgQI2Fx6hdT5xwO11az-PT3eXVg2aNEdI0D80fXCHFPcgqcNP-8lTOaDG-gnDqbzTkiMocMhcJbW60ujnOCP7OFC_-C3aVhd9Kp1QUxx6plc4Pp7acSeIU7DnP5RSY01eYMjnwFBHkhLmxqFmzI3OK9bn906g&__tn__=-R)!
+
+- **[ Jenuary 1, 2019 ]** We are happy to celebrate the 1st year of [ContinualAI](http://www.continualai.org), on the path of becoming an official non-profit research organization! Join us now at [ContinualAI.org](http://www.continualai.org)!
+
 - **[ August 1, 2018 ]** I'll be in Paris for the whole month to start writing my dissertation on **Continual Learning with Deep Architecture** in the [Autonomous Systems and Robotics lab](http://asr.ensta.fr/) under the supervision of prof. [David Filliat](http://perso.ensta-paristech.fr/~filliat/eng/)! Let me know if you are around!
 
 - **[ June 25, 2018 ]** My new paper "[Continuous Learning in Single-Incremental-Task Scenarios](https://arxiv.org/abs/1806.08568)” is out! Check it out and let me know that you think! :-)

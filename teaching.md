@@ -13,7 +13,7 @@ In this section you can find a brief summary of all my teaching experiences. In 
 <div> <img src ='/{{ site.baseurl }}images/ml.jpeg' style="width:150px; height:83; float:left;margin-right:30px"/>
 <p><strong>Teaching assistant of the course <a href="http://bias.csr.unibo.it/maltoni/ml/">Machine Learning</a></strong><br>
 <em>Università di Bolgna / University of Bologna</em>.
-October 2016 – Present (two academic years).<br>
+October 2016 – Present (three academic years).<br>
 </p></div>
 
 <hr style="margin-top:10px;margin-bottom:20px; width:100%">
@@ -21,7 +21,7 @@ October 2016 – Present (two academic years).<br>
 <div> <img src ='/{{ site.baseurl }}images/arc.jpg'  style="width:150px;height:83px; float:left;margin-right:30px"/>
 <p><strong>Teaching assistant of the course <a href="http://bias.csr.unibo.it/maltoni/arc/">Computer Architectures</a></strong><br>
 <em>Università di Bolgna / University of Bologna</em>.
-October 2015 – Present (three academic years).<br>
+October 2015 – Present (four academic years).<br>
 </p></div>
 
 <hr style="margin-top:30px;margin-bottom:20px;width:100%">
