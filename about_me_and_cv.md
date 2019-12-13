@@ -6,11 +6,11 @@ layout: page
 In this page you'll find something more about myself.
 
 <p style="background: rgba(0,0,0,0.06) none repeat scroll 0% 0%; border: 1px solid rgb(222, 222, 222); padding: 1em; border-radius: 5px; text-align: center; margin-top:20px">
-<a href="#bio">Short Bio</a> &nbsp; | &nbsp; <a href="#cv">Curriculum Vitae</a> &nbsp; | &nbsp; <a href="#contacts">Contacts</a> <br>
+<a href="#bio">Extended Bio</a> &nbsp; | &nbsp; <a href="#cv">Curriculum Vitae</a> &nbsp; | &nbsp; <a href="#contacts">Contacts</a> <br>
 </p>
 
 <a href="#bio"></a>
-<h3 id="extended-bio" style="margin-bottom:30px">Short bio</h3>
+<h3 id="extended-bio" style="margin-bottom:30px">Extended Bio</h3>
 <p>
 Vincenzo Lomonaco is a Postdoctoral Researcher at the University of Bologna, Italy and President of <a href="http://www.continualai.org">ContinualAI</a>, a non-profit research organization and the largest open community on Continual Learning for AI. Currently, he is also a Co-founder and Board Member of AI for People and a Research Affiliate at AI Labs. Vincenzo obtained his PhD at UniBo in early 2019 with a dissertation titled <a href="http://amsdottorato.unibo.it/9073/">"Continual Learning with Deep Architectures"</a>: a natural continuation of his master's thesis on bio-inspired deep architectures he started in 2014. 
 <br>

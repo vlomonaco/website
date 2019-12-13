@@ -12,22 +12,42 @@ In this page you can give a quick glance at my **published** works. Most of them
 
 <hr style="margin-top:30px;margin-bottom:30px;width:100%">
 
-Lorenzo Pellegrini, Gabriele Graffieti, Vincenzo Lomonaco, Davide Maltoni. **[Latent Replay for Real-Time Continual Learning](https://arxiv.org/abs/1912.01100)**. ArXiv pre-print arXiv:1912.01100, 2019. <br>
+_Lorenzo Pellegrini, Gabriele Graffieti, Vincenzo Lomonaco, Davide Maltoni_. **[Latent Replay for Real-Time Continual Learning](https://arxiv.org/abs/1912.01100)**. ArXiv pre-print arXiv:1912.01100, 2019. <br>
 \[&nbsp;[arXiv pre-print](https://arxiv.org/abs/1912.01100) ]<br>
 
 <hr style="margin-top:30px;margin-bottom:30px;width:100%">
 
-Vincenzo Lomonaco, Davide Maltoni, Lorenzo Pellegrini. **[Fine-Grained Continual Learning](https://arxiv.org/abs/1907.03799)**. ArXiv pre-print arXiv:1907.03799, 2019. <br>
+_Vincenzo Lomonaco, Davide Maltoni, Lorenzo Pellegrini_. **[Fine-Grained Continual Learning](https://arxiv.org/abs/1907.03799)**. ArXiv pre-print arXiv:1907.03799, 2019. <br>
 \[&nbsp;[arXiv pre-print](https://arxiv.org/abs/1907.00182) ]<br>
 
 <hr style="margin-top:30px;margin-bottom:30px;width:100%">
 
-Timothée Lesort, Vincenzo Lomonaco, Andrei Stoian, Davide Maltoni, David Filliat, Natalia Díaz-Rodríguez. **[Continual Learning for Robotics: Definition, Framework, Learning Strategies, Opportunities and Challenges](https://hal.archives-ouvertes.fr/hal-02381343/)**. Elsevier Information Fusion Journal, 2019. <br>
+_Qi She, Fan Feng, Xinyue Hao, Qihan Yang, Chuanlin Lan, Vincenzo Lomonaco, Xuesong Shi, Zhengwei Wang, Yao Guo, Yimin Zhang, Fei Qiao, Rosa H. M. Chan._ **[OpenLORIS-Object: A Dataset and Benchmark Towards Lifelong Object Recognition](https://arxiv.org/abs/1911.06487)**. ArXiv pre-print arXiv:1911.06487, 2019. <br>
+\[&nbsp;[arXiv pre-print](https://arxiv.org/abs/1911.06487) ]<br>
+
+<hr style="margin-top:30px;margin-bottom:30px;width:100%">
+
+_Vincenzo Lomonaco, Karan Desai, Eugenio Culurciello, Davide Maltoni_ **[Continual Reinforcement Learning in 3D Non-stationary Environments](https://arxiv.org/abs/1905.10112)**. Arxiv preprint arXiv:1905.10112, 2019. <br>
+\[&nbsp;[arXiv pre-print](https://arxiv.org/abs/1905.10112) ]<br>
+
+<hr style="margin-top:30px;margin-bottom:30px;width:100%">
+
+_Jary Pomponi, Simone Scardapane, Vincenzo Lomonaco, Aurelio Uncini_ **[Efficient Continual Learning in Neural Networks with Embedding Regularization](https://arxiv.org/abs/1909.03742)**. Arxiv preprint arXiv:1909.03742v1, 2019. <br>
+\[&nbsp;[arXiv pre-print](https://arxiv.org/abs/1911.06487) ]<br>
+
+<hr style="margin-top:30px;margin-bottom:30px;width:100%">
+
+_Timothée Lesort, Vincenzo Lomonaco, Andrei Stoian, Davide Maltoni, David Filliat, Natalia Díaz-Rodríguez._ **[Continual Learning for Robotics: Definition, Framework, Learning Strategies, Opportunities and Challenges](https://hal.archives-ouvertes.fr/hal-02381343/)**. Elsevier Information Fusion Journal, 2019. <br>
 \[&nbsp;[article](https://doi.org/10.1016/j.inffus.2019.12.004) | [arXiv pre-print](https://arxiv.org/abs/1907.00182) ]<br>
 
 <hr style="margin-top:30px;margin-bottom:30px;width:100%">
 
-Lomonaco Vincenzo, Diaz Rodriguez Natalia , Filliat David and Maltoni Davide. **[Don't forget, there is more than forgetting: new metrics for Continual Learning](https://sites.google.com/view/continual2018/submissions)**. Continual Learning Workshop (NeurIPS 2018). <br>
+Vincenzo Lomonaco. **[Continual Learning with Deep Architectures](http://amsdottorato.unibo.it/9073/1/vincenzo_lomonaco_thesis.pdf)**. PhD Thesis, 2019. <br>
+\[&nbsp;[PhD Thesis](http://amsdottorato.unibo.it/9073/1/vincenzo_lomonaco_thesis.pdf) ]<br>
+
+<hr style="margin-top:30px;margin-bottom:30px;width:100%">
+
+_Lomonaco Vincenzo, Diaz Rodriguez Natalia , Filliat David and Maltoni Davide._ **[Don't forget, there is more than forgetting: new metrics for Continual Learning](https://sites.google.com/view/continual2018/submissions)**. Continual Learning Workshop (NeurIPS 2018). <br>
 \[&nbsp;[article](https://arxiv.org/pdf/1810.13166) | [poster](https://www.slideshare.net/VincenzoLomonaco/dont-forget-there-is-more-than-forgetting-new-metrics-for-continual-learning) | [slides](https://drive.google.com/open?id=1skMz1vIWniBlpb-ZOshAkTsvIdKNMdWE) \]<br>
 
 <hr style="margin-top:30px;margin-bottom:30px;width:100%">
@@ -37,17 +57,17 @@ Maltoni Davide and Lomonaco Vincenzo. **[Continuous Learning in Single-Increment
 
 <hr style="margin-top:30px;margin-bottom:30px;width:100%">
 
-Lomonaco Vincenzo and Maltoni Davide. **[CORe50: a New Dataset and Benchmark for Continuous Object Recongition][core50-arxiv]**. 1st Annual Conference on Robot Learning, 2017. <br>
+_Lomonaco Vincenzo and Maltoni Davide._ **[CORe50: a New Dataset and Benchmark for Continuous Object Recongition][core50-arxiv]**. 1st Annual Conference on Robot Learning, 2017. <br>
 \[&nbsp;[article][corl2017] | [arXiv extended version][semi-sup-tech] | [poster][corl2017-poster] | [video-presentation][core50-video] \]<br>
 
 <hr style="margin-top:30px;margin-bottom:30px;width:100%">
 
-Maltoni Davide and Lomonaco Vincenzo. **[Semi-supervised Tuning from Temporal Coherence][semi-sup-tech]**. 23rd International Conference on Pattern Recognition, 2016. <br>
+_Maltoni Davide and Lomonaco Vincenzo._ **[Semi-supervised Tuning from Temporal Coherence][semi-sup-tech]**. 23rd International Conference on Pattern Recognition, 2016. <br>
 \[&nbsp;[article][semi-sup] | &nbsp;[arXiv extended version][semi-sup-tech] | [poster][inc-strat-poster]&nbsp;\] <br>
 
 <hr style="margin-top:30px;margin-bottom:30px;width:100%">
 
-Lomonaco Vincenzo and Maltoni Davide. **[Comparing Incremental Learning Strategies for Convolutional Neural Networks][inc-strat-paper]**. IAPR Workshop on Artificial Neural Networks in Pattern Recognition. Springer International Publishing, 2016. <br>
+_Lomonaco Vincenzo and Maltoni Davide._ **[Comparing Incremental Learning Strategies for Convolutional Neural Networks][inc-strat-paper]**. IAPR Workshop on Artificial Neural Networks in Pattern Recognition. Springer International Publishing, 2016. <br>
 \[&nbsp;[article][inc-strat-paper] | [poster][inc-strat-poster] |  [slides][inc-strat-slides] | [video-presentation][inc-strat-video]&nbsp;]<br>
 
 <hr style="margin-top:30px;margin-bottom:30px;width:100%">
@@ -56,22 +76,22 @@ Lomonaco Vincenzo and Maltoni Davide. **[Comparing Incremental Learning Strategi
 
 <hr style="margin-top:30px;margin-bottom:30px;width:100%">
 
-Lomonaco Vincenzo, Trotta Angelo, Ziosi Marta, De Dios Yáñez Ávila Juan, Díaz-Rodríguez Natalia. **[Intelligent Drone Swarm for Search and Rescue Operations at Sea](https://ieeexplore.ieee.org/document/8480119/)**. AI for Social Good Workshop (NeurIPS 2018). <br>
+_Lomonaco Vincenzo, Trotta Angelo, Ziosi Marta, De Dios Yáñez Ávila Juan, Díaz-Rodríguez Natalia._ **[Intelligent Drone Swarm for Search and Rescue Operations at Sea](https://ieeexplore.ieee.org/document/8480119/)**. AI for Social Good Workshop (NeurIPS 2018). <br>
 \[ [article](https://arxiv.org/pdf/1811.05291) \]<br>
 
 <hr style="margin-top:30px;margin-bottom:30px;width:100%">
 
-Carpineti Claudia, Lomonaco Vincenzo, Bedogni Luca, Di Felice Marco and Bononi Luciano. **[Custom Dual Transportation Mode Detection by Smartphone Devices Exploiting Sensor Diversity](https://ieeexplore.ieee.org/document/8480119/)**. IEEE International Conference on Pervasive Computing and Communications Workshops, 2018. <br>
+_Carpineti Claudia, Lomonaco Vincenzo, Bedogni Luca, Di Felice Marco and Bononi Luciano._ **[Custom Dual Transportation Mode Detection by Smartphone Devices Exploiting Sensor Diversity](https://ieeexplore.ieee.org/document/8480119/)**. IEEE International Conference on Pervasive Computing and Communications Workshops, 2018. <br>
 \[ [article](https://ieeexplore.ieee.org/document/8480119/) \]<br>
 
 <hr style="margin-top:30px;margin-bottom:30px;width:100%">
 
-Russo Daniel, Lomonaco Vincenzo and Ciancarini Paolo. **[A Machine Learning Approach for Continuous Development][raia]**. Proceedings of 5th International Conference in Software Engineering for Defense Applications, 2018. <br>
+_Russo Daniel, Lomonaco Vincenzo and Ciancarini Paolo._ **[A Machine Learning Approach for Continuous Development][raia]**. Proceedings of 5th International Conference in Software Engineering for Defense Applications, 2018. <br>
 \[ [article][raia] \] <br>
 
 <hr style="margin-top:30px;margin-bottom:30px;width:100%">
 
-Lomonaco Vincenzo et al. **[UCbase 2.0: ultraconserved sequences database (2014 update)][ucbase]**. Database 2014 (2014): bau062.<br>
+_Lomonaco Vincenzo et al._ **[UCbase 2.0: ultraconserved sequences database (2014 update)][ucbase]**. Database 2014 (2014): bau062.<br>
 \[&nbsp;[article][ucbase]&nbsp;\] <br>
 
 <hr style="margin-top:30px;margin-bottom:30px;width:100%">
