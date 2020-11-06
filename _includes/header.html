@@ -1,0 +1,170 @@
+<header>
+
+<style>
+.new-header{
+	height: 30px;
+	padding: 15px;
+	width: 100%;
+	position: fixed;
+	margin-right: 20px;
+	background-color: rgb(255, 255, 255);
+	border-bottom-style: solid;
+	border-bottom-width: thin;
+	border-bottom-color: rgb(213, 213, 213);
+	min-width: 320px;
+}
+
+.new-header .title {
+	color: rgba(0,0,0,0.8399999857);
+	font-size: 20px;
+	line-height: 1.6em;
+	padding-bottom: 16px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 16px;
+	font-family: Lato, sans-serif;
+	font-weight: 300;
+}
+
+.new-header nav a {
+	color: rgba(0,0,0,0.6399999857);
+	font-size: 16px;
+	font-weight: 300;
+	font-family: Lato, sans-serif;
+}
+
+.new-header a:hover {
+	color: rgb(0,0,0);
+}
+
+.site-name{
+	display: inline;
+}
+
+.new-header nav{
+	float: right;
+	margin-right: 45px;
+}
+
+.new-header ul{
+	list-style: none;
+	margin-top: 4px;
+	margin-left: 0px;
+}
+
+.new-header i{
+	visibility: hidden;
+}
+
+.new-header li{
+	display: inline;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+}
+
+.mobile-sidebar{
+	display: none;
+	position: fixed;
+	width: 70%;
+	height: 100%;
+	background-color: #2A2A2A;
+	max-width: 300px;
+	min-width: 200px
+}
+#mobile-menu-name{
+	margin-left: 0px;
+	margin-top: 10px;
+	margin-bottom: 30px;
+}
+
+.mobile-sidebar nav a {
+	color: #FFF;
+	font-size: 16px;
+	font-weight: 300;
+	font-family: Lato, sans-serif;
+}
+
+.mobile-sidebar a:hover {
+	color: rgba(73,170,212,1);
+}
+
+.mobile-sidebar ul{
+	list-style: none;
+	margin-top: 4px;
+	margin-left: 20px;
+}
+
+.mobile-sidebar li{
+	margin-top: 14px;
+	margin-left: 26px;
+}
+
+#mobile-menu-name p{
+	color: rgba(255, 255, 255, 0.7);
+	margin-left: 10px;
+	display: inline;
+}
+
+.mobile-sidebar-container{
+	display: none;
+	width: 100%;
+	height: 100%;
+	background-color: rgba(1,1,1,0.39);
+	position: fixed;
+}
+
+.mobile-sidebar .btn-mobile-menu__icon{
+	color: rgba(255, 255, 255, 0.7);
+}
+
+@media all and (max-width: 980px) {
+	.new-header nav{
+		visibility: hidden;
+	}
+
+	.new-header i{
+		visibility: visible;
+	}
+
+}
+</style>
+
+<div class="new-header">
+	<div class="site-name">
+		<i class="icon icon-list btn-mobile-menu__icon"></i>
+		<a class="title" href="/{{ site.baseurl }}home">Vincenzo Lomonaco</a>
+	</div>
+	<nav>
+		<ul>
+				<li><a id='nav-home' href="/{{ site.baseurl }}home">Home</a></li>
+				<li><a id='nav-news' href="/{{ site.baseurl }}news" title="link to {{ site.title }} news">News</a></li>
+				<li><a id='nav-research' href="/{{ site.baseurl }}research" title="link to {{ site.title }} research ">Research</a></li>
+				<li><a id='nav-pubs' href="/{{ site.baseurl }}publications_and_talks" title="link to {{ site.title }} publications & talks" class="blog-button">Publications & Talks</a></li>
+				<li><a id='nav-teach' href="/{{ site.baseurl }}teaching" title="link to {{ site.title }} teaching">Teaching</a></li> 
+				<li><a id='nav-about' href="/{{ site.baseurl }}about_me_and_cv" title="link to {{ site.title }} about me & CV">About me & CV</a></li> 
+				<li><a id='nav-blog' href="https://medium.com/@vlomonaco" target="_blank" title="link to the Medium blog" class="blog-button">Blog</a></li>
+		</ul>
+	</nav>
+</div>
+
+<div class='mobile-sidebar-container'>
+<div class='mobile-sidebar'>
+	<nav>
+		<ul>
+				<li id='mobile-menu-name'><i class="icon icon-list btn-mobile-menu__icon"></i><p>Menu</p></li>
+				<li><a id='nav-home' href="/{{ site.baseurl }}home">Home</a></li>
+				<li><a id='nav-news' href="/{{ site.baseurl }}news" title="link to {{ site.title }} news">News</a></li>
+				<li><a id='nav-research' href="/{{ site.baseurl }}research" title="link to {{ site.title }} research ">Research</a></li>
+				<li><a id='nav-pubs' href="/{{ site.baseurl }}publications_and_talks" title="link to {{ site.title }} publications & talks" class="blog-button">Publications & Talks</a></li>
+				<li><a id='nav-teach' href="/{{ site.baseurl }}teaching" title="link to {{ site.title }} teaching">Teaching</a></li> 
+				<li><a id='nav-about' href="/{{ site.baseurl }}about_me_and_cv" title="link to {{ site.title }} about me & CV">About me & CV</a></li> 
+				<li><a id='nav-blog' href="https://medium.com/@vlomonaco" target="_blank" title="link to the Medium blog" class="blog-button">Blog</a></li>
+		</ul>
+	</nav>
+</div>
+</div>
+</header>
+
+

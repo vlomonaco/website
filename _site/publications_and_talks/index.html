@@ -1,0 +1,526 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Vincenzo Lomonaco</title>
+  <meta name="description" content="Postdoctoral Researcher @ University of Bologna <br> <em>Working on <strong>Neuroscience-Inspired AI</strong> and <strong>Continual Learning</strong></em>">
+  <meta name="author" content="Vincenzo Lomonaco">
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Vincenzo Lomonaco">
+  <meta name="twitter:description" content="Postdoctoral Researcher @ University of Bologna <br> <em>Working on <strong>Neuroscience-Inspired AI</strong> and <strong>Continual Learning</strong></em>">
+
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Vincenzo Lomonaco">
+  <meta property="og:description" content="Postdoctoral Researcher @ University of Bologna <br> <em>Working on <strong>Neuroscience-Inspired AI</strong> and <strong>Continual Learning</strong></em>">
+
+	<!-- old favicon code
+  <link rel="apple-touch-icon" sizes="57x57" href="images/favicons/apple-touch-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="images/favicons/apple-touch-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="images/favicons/apple-touch-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="images/favicons/apple-touch-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="images/favicons/apple-touch-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="images/favicons/apple-touch-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="images/favicons/apple-touch-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="images/favicons/apple-touch-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="images/favicons/apple-touch-icon-180x180.png">
+  <link rel="icon" type="image/png" href="images/favicons/favicon-32x32.png" sizes="32x32">
+  <link rel="icon" type="image/png" href="images/favicons/favicon-194x194.png" sizes="194x194">
+  <link rel="icon" type="image/png" href="images/favicons/favicon-96x96.png" sizes="96x96">
+  <link rel="icon" type="image/png" href="images/favicons/android-chrome-192x192.png" sizes="192x192">
+  <link rel="icon" type="image/png" href="images/favicons/favicon-16x16.png" sizes="16x16">
+  <link rel="manifest" href="images/favicons/manifest.json">
+  <link rel="shortcut icon" href="images/favicons/favicon.ico">
+  <meta name="msapplication-TileColor" content="#ffc40d">
+  <meta name="msapplication-TileImage" content="images/favicons/mstile-144x144.png">
+  <meta name="theme-color" content="#ffffff">
+	--!>
+
+	<!-- new favicon code !-->
+	<link rel="apple-touch-icon" sizes="180x180" href="/images/favicons/apple-touch-icon.png">
+	<link rel="icon" type="image/png" href="/images/favicons/favicon-32x32.png" sizes="32x32">
+	<link rel="icon" type="image/png" href="/images/favicons/favicon-16x16.png" sizes="16x16">
+	<link rel="manifest" href="/images/favicons/manifest.json">
+	<link rel="mask-icon" href="/images/favicons/safari-pinned-tab.svg" color="#5bbad5">
+	<link rel="shortcut icon" href="/images/favicons/favicon.ico">
+	<meta name="msapplication-config" content="/images/favicons/browserconfig.xml">
+	<meta name="theme-color" content="#ffffff">
+	<!-- end new favicon code !-->
+
+  <link rel="stylesheet" href="/css/main.css">
+  <link rel="stylesheet" href="/css/particles.css">
+	<link rel="stylesheet" href="/fonts/academicons-1.7.0/css/academicons.css"/>
+  <link rel="canonical" href="http://vincenzolomonaco.com/publications_and_talks/">
+  <link rel="alternate" type="application/rss+xml" title="Vincenzo Lomonaco" target="_blank" href="https://medium.com/feed/@vlomonaco">
+</head>
+
+
+  <body>
+    <header>
+
+<style>
+.new-header{
+	height: 30px;
+	padding: 15px;
+	width: 100%;
+	position: fixed;
+	margin-right: 20px;
+	background-color: rgb(255, 255, 255);
+	border-bottom-style: solid;
+	border-bottom-width: thin;
+	border-bottom-color: rgb(213, 213, 213);
+	min-width: 320px;
+}
+
+.new-header .title {
+	color: rgba(0,0,0,0.8399999857);
+	font-size: 20px;
+	line-height: 1.6em;
+	padding-bottom: 16px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 16px;
+	font-family: Lato, sans-serif;
+	font-weight: 300;
+}
+
+.new-header nav a {
+	color: rgba(0,0,0,0.6399999857);
+	font-size: 16px;
+	font-weight: 300;
+	font-family: Lato, sans-serif;
+}
+
+.new-header a:hover {
+	color: rgb(0,0,0);
+}
+
+.site-name{
+	display: inline;
+}
+
+.new-header nav{
+	float: right;
+	margin-right: 45px;
+}
+
+.new-header ul{
+	list-style: none;
+	margin-top: 4px;
+	margin-left: 0px;
+}
+
+.new-header i{
+	visibility: hidden;
+}
+
+.new-header li{
+	display: inline;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+}
+
+.mobile-sidebar{
+	display: none;
+	position: fixed;
+	width: 70%;
+	height: 100%;
+	background-color: #2A2A2A;
+	max-width: 300px;
+	min-width: 200px
+}
+#mobile-menu-name{
+	margin-left: 0px;
+	margin-top: 10px;
+	margin-bottom: 30px;
+}
+
+.mobile-sidebar nav a {
+	color: #FFF;
+	font-size: 16px;
+	font-weight: 300;
+	font-family: Lato, sans-serif;
+}
+
+.mobile-sidebar a:hover {
+	color: rgba(73,170,212,1);
+}
+
+.mobile-sidebar ul{
+	list-style: none;
+	margin-top: 4px;
+	margin-left: 20px;
+}
+
+.mobile-sidebar li{
+	margin-top: 14px;
+	margin-left: 26px;
+}
+
+#mobile-menu-name p{
+	color: rgba(255, 255, 255, 0.7);
+	margin-left: 10px;
+	display: inline;
+}
+
+.mobile-sidebar-container{
+	display: none;
+	width: 100%;
+	height: 100%;
+	background-color: rgba(1,1,1,0.39);
+	position: fixed;
+}
+
+.mobile-sidebar .btn-mobile-menu__icon{
+	color: rgba(255, 255, 255, 0.7);
+}
+
+@media all and (max-width: 980px) {
+	.new-header nav{
+		visibility: hidden;
+	}
+
+	.new-header i{
+		visibility: visible;
+	}
+
+}
+</style>
+
+<div class="new-header">
+	<div class="site-name">
+		<i class="icon icon-list btn-mobile-menu__icon"></i>
+		<a class="title" href="/home">Vincenzo Lomonaco</a>
+	</div>
+	<nav>
+		<ul>
+				<li><a id='nav-home' href="/home">Home</a></li>
+				<li><a id='nav-news' href="/news" title="link to Vincenzo Lomonaco news">News</a></li>
+				<li><a id='nav-research' href="/research" title="link to Vincenzo Lomonaco research ">Research</a></li>
+				<li><a id='nav-pubs' href="/publications_and_talks" title="link to Vincenzo Lomonaco publications & talks" class="blog-button">Publications & Talks</a></li>
+				<li><a id='nav-teach' href="/teaching" title="link to Vincenzo Lomonaco teaching">Teaching</a></li> 
+				<li><a id='nav-about' href="/about_me_and_cv" title="link to Vincenzo Lomonaco about me & CV">About me & CV</a></li> 
+				<li><a id='nav-blog' href="https://medium.com/@vlomonaco" target="_blank" title="link to the Medium blog" class="blog-button">Blog</a></li>
+		</ul>
+	</nav>
+</div>
+
+<div class='mobile-sidebar-container'>
+<div class='mobile-sidebar'>
+	<nav>
+		<ul>
+				<li id='mobile-menu-name'><i class="icon icon-list btn-mobile-menu__icon"></i><p>Menu</p></li>
+				<li><a id='nav-home' href="/home">Home</a></li>
+				<li><a id='nav-news' href="/news" title="link to Vincenzo Lomonaco news">News</a></li>
+				<li><a id='nav-research' href="/research" title="link to Vincenzo Lomonaco research ">Research</a></li>
+				<li><a id='nav-pubs' href="/publications_and_talks" title="link to Vincenzo Lomonaco publications & talks" class="blog-button">Publications & Talks</a></li>
+				<li><a id='nav-teach' href="/teaching" title="link to Vincenzo Lomonaco teaching">Teaching</a></li> 
+				<li><a id='nav-about' href="/about_me_and_cv" title="link to Vincenzo Lomonaco about me & CV">About me & CV</a></li> 
+				<li><a id='nav-blog' href="https://medium.com/@vlomonaco" target="_blank" title="link to the Medium blog" class="blog-button">Blog</a></li>
+		</ul>
+	</nav>
+</div>
+</div>
+</header>
+
+
+
+
+			<div class="content-wrapper">
+      <div class="content-wrapper__inner">
+        <article class="post-container post-container--single">
+
+  <header class="post-header">
+    <h1 class="post-title">Publications & talks</h1>
+  </header>
+
+  <section class="post">
+    <p>In this page you can give a quick glance at my <strong>published</strong> works. Most of them are in the context of <strong>Continual Deep Learning</strong>, the subject of my PhD dissertation, or its application to various contexts such as <em>Internet of Things</em> or <em>Robotics</em>.</p>
+
+<p style="background: rgba(0,0,0,0.06) none repeat scroll 0% 0%; border: 1px solid rgb(222, 222, 222); padding: 1em; border-radius: 5px; text-align: center; margin-top:20px">
+<a href="#selected">Selected Works</a> &nbsp; | &nbsp; <a href="#recent">Other Recent Works</a> &nbsp; | &nbsp; <a href="#complete">Complete list of Publications</a> &nbsp; | &nbsp; <a href="#talks">Invited Talks</a>
+</p>
+
+<h3 id="selected" style="margin-bottom: 30px;">Selected Works</h3>
+
+<hr style="margin-top:30px;margin-bottom:30px;width:100%" />
+
+<p><em>Lorenzo Pellegrini, Gabriele Graffieti, Vincenzo Lomonaco, Davide Maltoni</em>. <strong><a href="https://arxiv.org/abs/1912.01100">Latent Replay for Real-Time Continual Learning</a></strong>. ArXiv pre-print arXiv:1912.01100, 2019. <br />
+[ <a href="https://arxiv.org/abs/1912.01100">arXiv pre-print</a> ]<br /></p>
+
+<hr style="margin-top:30px;margin-bottom:30px;width:100%" />
+
+<p><em>Vincenzo Lomonaco, Davide Maltoni, Lorenzo Pellegrini</em>. <strong><a href="https://arxiv.org/abs/1907.03799">Fine-Grained Continual Learning</a></strong>. ArXiv pre-print arXiv:1907.03799, 2019. <br />
+[ <a href="https://arxiv.org/abs/1907.00182">arXiv pre-print</a> ]<br /></p>
+
+<hr style="margin-top:30px;margin-bottom:30px;width:100%" />
+
+<p><em>Qi She, Fan Feng, Xinyue Hao, Qihan Yang, Chuanlin Lan, Vincenzo Lomonaco, Xuesong Shi, Zhengwei Wang, Yao Guo, Yimin Zhang, Fei Qiao, Rosa H. M. Chan.</em> <strong><a href="https://arxiv.org/abs/1911.06487">OpenLORIS-Object: A Dataset and Benchmark Towards Lifelong Object Recognition</a></strong>. ArXiv pre-print arXiv:1911.06487, 2019. <br />
+[ <a href="https://arxiv.org/abs/1911.06487">arXiv pre-print</a> ]<br /></p>
+
+<hr style="margin-top:30px;margin-bottom:30px;width:100%" />
+
+<p><em>Vincenzo Lomonaco, Karan Desai, Eugenio Culurciello, Davide Maltoni</em> <strong><a href="https://arxiv.org/abs/1905.10112">Continual Reinforcement Learning in 3D Non-stationary Environments</a></strong>. Arxiv preprint arXiv:1905.10112, 2019. <br />
+[ <a href="https://arxiv.org/abs/1905.10112">arXiv pre-print</a> ]<br /></p>
+
+<hr style="margin-top:30px;margin-bottom:30px;width:100%" />
+
+<p><em>Jary Pomponi, Simone Scardapane, Vincenzo Lomonaco, Aurelio Uncini</em> <strong><a href="https://arxiv.org/abs/1909.03742">Efficient Continual Learning in Neural Networks with Embedding Regularization</a></strong>. Arxiv preprint arXiv:1909.03742v1, 2019. <br />
+[ <a href="https://arxiv.org/abs/1911.06487">arXiv pre-print</a> ]<br /></p>
+
+<hr style="margin-top:30px;margin-bottom:30px;width:100%" />
+
+<p><em>Timothée Lesort, Vincenzo Lomonaco, Andrei Stoian, Davide Maltoni, David Filliat, Natalia Díaz-Rodríguez.</em> <strong><a href="https://hal.archives-ouvertes.fr/hal-02381343/">Continual Learning for Robotics: Definition, Framework, Learning Strategies, Opportunities and Challenges</a></strong>. Elsevier Information Fusion Journal, 2019. <br />
+[ <a href="https://doi.org/10.1016/j.inffus.2019.12.004">article</a> | <a href="https://arxiv.org/abs/1907.00182">arXiv pre-print</a> ]<br /></p>
+
+<hr style="margin-top:30px;margin-bottom:30px;width:100%" />
+
+<p>Vincenzo Lomonaco. <strong><a href="http://amsdottorato.unibo.it/9073/1/vincenzo_lomonaco_thesis.pdf">Continual Learning with Deep Architectures</a></strong>. PhD Thesis, 2019. <br />
+[ <a href="http://amsdottorato.unibo.it/9073/1/vincenzo_lomonaco_thesis.pdf">PhD Thesis</a> ]<br /></p>
+
+<hr style="margin-top:30px;margin-bottom:30px;width:100%" />
+
+<p><em>Lomonaco Vincenzo, Diaz Rodriguez Natalia , Filliat David and Maltoni Davide.</em> <strong><a href="https://sites.google.com/view/continual2018/submissions">Don’t forget, there is more than forgetting: new metrics for Continual Learning</a></strong>. Continual Learning Workshop (NeurIPS 2018). <br />
+[ <a href="https://arxiv.org/pdf/1810.13166">article</a> | <a href="https://www.slideshare.net/VincenzoLomonaco/dont-forget-there-is-more-than-forgetting-new-metrics-for-continual-learning">poster</a> | <a href="https://drive.google.com/open?id=1skMz1vIWniBlpb-ZOshAkTsvIdKNMdWE">slides</a> ]<br /></p>
+
+<hr style="margin-top:30px;margin-bottom:30px;width:100%" />
+
+<p>Maltoni Davide and Lomonaco Vincenzo. <strong><a href="https://arxiv.org/abs/1705.03550">Continuous Learning in Single-Incremental-Task Scenarios</a></strong>, vol. 116, pp. 56-73, <em>Neural Networks</em>, 2019. <br />
+[ <a href="https://arxiv.org/abs/1806.08568">arXiv pre-print</a> | <a href="https://www.sciencedirect.com/science/article/pii/S0893608019300838">article</a> ]<br /></p>
+
+<hr style="margin-top:30px;margin-bottom:30px;width:100%" />
+
+<p><em>Lomonaco Vincenzo and Maltoni Davide.</em> <strong><a href="https://arxiv.org/abs/1705.03550">CORe50: a New Dataset and Benchmark for Continuous Object Recongition</a></strong>. 1st Annual Conference on Robot Learning, 2017. <br />
+[ <a href="http://proceedings.mlr.press/v78/lomonaco17a.html">article</a> | <a href="http://arxiv.org/abs/1511.03163">arXiv extended version</a> | <a href="https://www.slideshare.net/secret/JLW0JMpuKKgo91">poster</a> | <a href="https://www.youtube.com/watch?v=vAGpDx9U9Qk&amp;t=2s">video-presentation</a> ]<br /></p>
+
+<hr style="margin-top:30px;margin-bottom:30px;width:100%" />
+
+<p><em>Maltoni Davide and Lomonaco Vincenzo.</em> <strong><a href="http://arxiv.org/abs/1511.03163">Semi-supervised Tuning from Temporal Coherence</a></strong>. 23rd International Conference on Pattern Recognition, 2016. <br />
+[ <a href="http://ieeexplore.ieee.org/document/7900013/">article</a> |  <a href="http://arxiv.org/abs/1511.03163">arXiv extended version</a> | <a href="http://www.slideshare.net/VincenzoLomonaco/biss2016-poster">poster</a> ] <br /></p>
+
+<hr style="margin-top:30px;margin-bottom:30px;width:100%" />
+
+<p><em>Lomonaco Vincenzo and Maltoni Davide.</em> <strong><a href="http://link.springer.com/chapter/10.1007/978-3-319-46182-3_15">Comparing Incremental Learning Strategies for Convolutional Neural Networks</a></strong>. IAPR Workshop on Artificial Neural Networks in Pattern Recognition. Springer International Publishing, 2016. <br />
+[ <a href="http://link.springer.com/chapter/10.1007/978-3-319-46182-3_15">article</a> | <a href="http://www.slideshare.net/VincenzoLomonaco/biss2016-poster">poster</a> |  <a href="http://www.slideshare.net/VincenzoLomonaco/comparing-incremental-learning-strategies-for-convolutional-neural-networks">slides</a> | <a href="https://www.youtube.com/watch?v=RQr20CQk83Q">video-presentation</a> ]<br /></p>
+
+<hr style="margin-top:30px;margin-bottom:30px;width:100%" />
+
+<h3 id="recent" style="margin-bottom: 30px;">Other Recent Works</h3>
+
+<hr style="margin-top:30px;margin-bottom:30px;width:100%" />
+
+<p><em>Lomonaco Vincenzo, Trotta Angelo, Ziosi Marta, De Dios Yáñez Ávila Juan, Díaz-Rodríguez Natalia.</em> <strong><a href="https://ieeexplore.ieee.org/document/8480119/">Intelligent Drone Swarm for Search and Rescue Operations at Sea</a></strong>. AI for Social Good Workshop (NeurIPS 2018). <br />
+[ <a href="https://arxiv.org/pdf/1811.05291">article</a> ]<br /></p>
+
+<hr style="margin-top:30px;margin-bottom:30px;width:100%" />
+
+<p><em>Carpineti Claudia, Lomonaco Vincenzo, Bedogni Luca, Di Felice Marco and Bononi Luciano.</em> <strong><a href="https://ieeexplore.ieee.org/document/8480119/">Custom Dual Transportation Mode Detection by Smartphone Devices Exploiting Sensor Diversity</a></strong>. IEEE International Conference on Pervasive Computing and Communications Workshops, 2018. <br />
+[ <a href="https://ieeexplore.ieee.org/document/8480119/">article</a> ]<br /></p>
+
+<hr style="margin-top:30px;margin-bottom:30px;width:100%" />
+
+<p><em>Russo Daniel, Lomonaco Vincenzo and Ciancarini Paolo.</em> <strong><a href="https://www.researchgate.net/publication/322231029_A_Machine_Learning_Approach_for_Continuous_Development">A Machine Learning Approach for Continuous Development</a></strong>. Proceedings of 5th International Conference in Software Engineering for Defense Applications, 2018. <br />
+[ <a href="https://www.researchgate.net/publication/322231029_A_Machine_Learning_Approach_for_Continuous_Development">article</a> ] <br /></p>
+
+<hr style="margin-top:30px;margin-bottom:30px;width:100%" />
+
+<p><em>Lomonaco Vincenzo et al.</em> <strong><a href="http://database.oxfordjournals.org/content/2014/bau062.full">UCbase 2.0: ultraconserved sequences database (2014 update)</a></strong>. Database 2014 (2014): bau062.<br />
+[ <a href="http://database.oxfordjournals.org/content/2014/bau062.full">article</a> ] <br /></p>
+
+<hr style="margin-top:30px;margin-bottom:30px;width:100%" />
+
+<h3 id="complete" style="margin-bottom: 30px;">Complete list of Publications</h3>
+
+<ul>
+  <li><a href="http://scholar.google.it/citations?user=rQLINtQAAAAJ&amp;hl=it">GoogleScholar</a></li>
+  <li><a href="https://www.researchgate.net/profile/Vincenzo_Lomonaco">ResearchGate</a></li>
+  <li><a href="https://unibo.academia.edu/VLomonaco">Acedemia.edu</a></li>
+</ul>
+
+<h3 id="talks" style="margin-bottom: 30px;">Invited Talks</h3>
+
+<hr style="margin-top:30px;margin-bottom:20px;width:100%" />
+
+<div>
+	<img src="/images/iit_talk.jpg" style="width:150px;height:83px; float:left;margin-right:30px" />
+	<p>
+		<strong><a href="https://www.slideshare.net/VincenzoLomonaco/continuous-unsupervised-training-of-deep-architectures">Continuous Unsupervised Training of Deep Architectures</a></strong><br />
+		<em>Istituto Italiano di Tecnologia (IIT), Genova</em>.
+		6th July 2017.<br /> 
+		[<a href="https://www.slideshare.net/VincenzoLomonaco/continuous-unsupervised-training-of-deep-architectures">slides</a>]
+	</p>
+</div>
+
+<hr style="margin-top:30px;margin-bottom:20px;width:100%" />
+
+<div>
+	<img src="/images/cl_ensta.jpg" style="width:150px;height:83px; float:left;margin-right:30px" />
+	<p>
+		<strong><a href="https://www.slideshare.net/VincenzoLomonaco/continuous-learning-with-deep-architectures">Continuous Learning with Deep Architectures</a></strong><br />
+		<em>Neurala, Boston</em>.
+		25th March 2017.<br /> 
+		[<a href="https://www.slideshare.net/VincenzoLomonaco/continuous-learning-with-deep-architectures">slides</a>]
+	</p>
+</div>
+
+<hr style="margin-top:30px;margin-bottom:20px;width:100%" />
+
+<div>
+	<img src="/images/cl_ensta.jpg" style="width:150px;height:83px; float:left;margin-right:30px" />
+	<p>
+		<strong><a href="https://www.slideshare.net/VincenzoLomonaco/continuous-learning-with-deep-architectures">Continuous Learning with Deep Architectures</a></strong><br />
+		<em>Autonomous System and Robotics, ENSTA ParisTech, Paris</em>.
+		17th May 2018.<br /> 
+		[<a href="https://www.slideshare.net/VincenzoLomonaco/continuous-learning-with-deep-architectures">slides</a>]
+	</p>
+</div>
+
+<hr style="margin-top:30px;margin-bottom:20px;width:100%" />
+
+<div>
+	<img src="http://image.slidesharecdn.com/7dm9g5gerdeg7nt0x1e5-signature-964bd2753428c221a3efd63f5417ac54041fcb2153cdd429a6ed2a5e06d0c548-poli-190107115131/95/continual-learning-with-deep-architectures-workshop-computer-visioners-conference-2018-1-638.jpg?cb=1546862061" style="width:150px;height:83px; float:left;margin-right:30px" />
+	<p>
+		<strong><a href="https://www.aibooster.com.ua/cth_speaker/vincenzo-lomonaco/">Continual Learning with Deep Architectures</a></strong><br />
+		<em>Computer VISIONers Conference, Kyiv, Ukraine</em>.
+		6th October 2018.<br /> 
+		[<a href="https://www.slideshare.net/VincenzoLomonaco/continuous-learning-with-deep-architectures">slides</a>]
+	</p>
+</div>
+
+<hr style="margin-top:30px;margin-bottom:20px;width:100%" />
+
+<div>
+	<img src="https://image.slidesharecdn.com/frameworksfordeeplearning-190107120355/95/opensource-frameworks-for-deep-learning-an-overview-1-638.jpg?cb=1546862795" style="width:150px;height:83px; float:left;margin-right:30px" />
+	<p>
+		<strong><a href="https://www.slideshare.net/VincenzoLomonaco/opensource-frameworks-for-deep-learning-an-overview">Open-Source Frameworks for Deep Learning: an Overview</a></strong><br />
+		<em>Alma Mater Studiorum - University of Bologna, Cesena, Italy</em>.
+		13th December 2018.<br /> 
+		[<a href="https://www.slideshare.net/VincenzoLomonaco/opensource-frameworks-for-deep-learning-an-overview">slides</a>]
+	</p>
+</div>
+
+<hr style="margin-top:30px;margin-bottom:20px;width:100%" />
+
+<div>
+	<img src="https://image.slidesharecdn.com/datasciencemilan-190918164331/95/continuallifelong-learning-with-deep-architectures-1-638.jpg?cb=1568825118" style="width:150px;height:83px; float:left;margin-right:30px" />
+	<p>
+		<strong><a href="https://www.slideshare.net/VincenzoLomonaco/continuallifelong-learning-with-deep-architectures">Continual/Lifelong Learning with Deep Architectures</a></strong><br />
+		<em>Workshop @ Data Science Milan, Milan, italy.</em>
+		28th january 2019.<br /> 
+		[<a href="https://www.slideshare.net/VincenzoLomonaco/continuallifelong-learning-with-deep-architectures">slides</a>]
+	</p>
+</div>
+
+<hr style="margin-top:30px;margin-bottom:20px;width:100%" />
+
+<div>
+	<img src="https://image.slidesharecdn.com/frameworksfordeeplearning-190107120355/95/opensource-frameworks-for-deep-learning-an-overview-1-638.jpg?cb=1546862795" style="width:150px;height:83px; float:left;margin-right:30px" />
+	<p>
+		<strong><a href="https://www.slideshare.net/VincenzoLomonaco/opensource-frameworks-for-deep-learning-an-overview">Open-Source Frameworks for Deep Learning: an Overview</a></strong><br />
+		<em>Data Science Bologna @ Musixmatch, Italy</em>.
+		28th February 2019.<br /> 
+		[<a href="https://www.slideshare.net/VincenzoLomonaco/opensource-frameworks-for-deep-learning-an-overview">slides</a>]
+	</p>
+</div>
+
+<hr style="margin-top:30px;margin-bottom:20px;width:100%" />
+
+<div>
+	<img src="https://image.slidesharecdn.com/continualrl-190918164859/95/continual-reinforcement-learning-in-3d-nonstationary-environments-1-638.jpg?cb=1568825487" style="width:150px;height:83px; float:left;margin-right:30px" />
+	<p>
+		<strong><a href="https://www.slideshare.net/VincenzoLomonaco/continual-reinforcement-learning-in-3d-nonstationary-environments">Continual Reinforcement Learning in 3D Non-stationary Environments</a></strong><br />
+		<em>Computational Science Lab @ UPF, Barcelona, Spain.</em>
+		29th March 2019.<br /> 
+		[<a href="https://www.slideshare.net/VincenzoLomonaco/continual-reinforcement-learning-in-3d-nonstationary-environments">slides</a>]
+	</p>
+</div>
+
+<hr style="margin-top:30px;margin-bottom:20px;width:100%" />
+
+<div>
+	<img src="https://image.slidesharecdn.com/tutorialinns2019full-190918165526/95/tutorial-inns2019-full-1-638.jpg?cb=1568825833" style="width:150px;height:83px; float:left;margin-right:30px" />
+	<p>
+		<strong><a href="https://innsbddl2019.org/tutorial/">Continual Lifelong Learning with Neural Networks</a></strong><br />
+		<em>Tutorial @ INNSBDDL2019, Sestri Levante, Italy.</em>
+		16th April 2019.<br /> 
+		[<a href="https://www.slideshare.net/VincenzoLomonaco/tutorial-inns2019-full">slides</a>]
+	</p>
+</div>
+
+<hr style="margin-top:30px;margin-bottom:20px;width:100%" />
+
+<div>
+	<img src="https://image.slidesharecdn.com/frameworksfordeeplearning-190107120355/95/opensource-frameworks-for-deep-learning-an-overview-1-638.jpg?cb=1546862795" style="width:150px;height:83px; float:left;margin-right:30px" />
+	<p>
+		<strong><a href="https://www.aibooster.com.ua/cth_speaker/vincenzo-lomonaco/">Apprendimento Automatico Continuo per la Robotica e l'Intelligenza Artificiale</a></strong><br />
+		<em>Codemotion Meetup @ AlmaCube, Bologna.</em>.
+		4th July 2019.<br /> 
+		[<a href="https://www.slideshare.net/VincenzoLomonaco/continuous-learning-with-deep-architectures">slides</a>]
+	</p>
+</div>
+
+<hr style="margin-top:30px;margin-bottom:20px;width:100%" />
+
+<div>
+	<img src="https://image.slidesharecdn.com/iittalk11-09-19-190918160752/95/continual-learning-for-robotics-1-638.jpg?cb=1568823302" style="width:150px;height:83px; float:left;margin-right:30px" />
+	<p>
+		<strong><a href="https://www.slideshare.net/VincenzoLomonaco/continual-learning-for-robotics">Continual Learning for Robotics</a></strong><br />
+		<em>Istituto Italiano di Tecnologia (IIT), Genova.</em>
+		9th September 2019.<br /> 
+		[<a href="https://www.slideshare.net/VincenzoLomonaco/continual-learning-for-robotics">slides</a>]
+	</p>
+</div>
+
+<hr style="margin-top:30px;margin-bottom:20px;width:100%" />
+
+<div>
+	<img src="https://image.slidesharecdn.com/numentatalk-190918211350/95/continual-learning-another-step-towards-truly-intelligent-machines-12-638.jpg?cb=1568841390" style="width:150px;height:83px; float:left;margin-right:30px" />
+	<p>
+		<strong><a href="https://www.slideshare.net/VincenzoLomonaco/continual-learning-another-step-towards-truly-intelligent-machines">Continual Learning: Another Step Towards Truly Intelligent Machines</a></strong><br />
+		<em>Numenta, Redwood City, California.</em>.
+		16th September 2017.<br /> 
+		[<a href="https://www.slideshare.net/VincenzoLomonaco/continual-learning-another-step-towards-truly-intelligent-machines">slides</a>]
+	</p>
+</div>
+
+<hr style="margin-top:30px;margin-bottom:20px;width:100%" />
+
+
+  </section>
+
+</article>
+      </div>
+			</div>
+
+      <footer class="footer">
+  <span class="footer__copyright">&copy; 2020 Vincenzo Lomonaco, 2016 Josh Gerdes.</span>
+</footer> 
+
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/particles.js"></script>
+<script type="text/javascript" src="/js/particles_app.js"></script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-65263066-1', 'auto');
+  ga('send', 'pageview');
+</script>
+
+
+  </body>
+</html>

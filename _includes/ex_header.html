@@ -1,0 +1,206 @@
+<!-- <header class="panel-cover"  style="background-image: url({{ "images/cover.jpg" | prepend: site.baseurl }})" > -->
+<header class="panel-cover">
+  <div class="panel-main">
+
+    <div class="panel-main__inner panel-inverted">
+    <div class="panel-main__content">
+        <a class='home' href="/{{ site.baseurl }}#home" title="link to home of {{ site.title }}">
+          <img src="/{{ "images/profile.jpg" | prepend: site.baseurl }}" class="user-image" alt="My Profile Photo">
+          <h1 class="panel-cover__title panel-title">{{ site.title }}</h1>
+        </a>
+        <hr class="panel-cover__divider">
+        <p class="panel-cover__description">{{ site.description }}</p>
+        <hr class="panel-cover__divider panel-cover__divider--secondary">
+
+        <div class="navigation-wrapper">
+
+          <nav class="cover-navigation cover-navigation--primary">
+            <ul class="navigation">
+              <li class="navigation__item"><a class="home" href="/{{ site.baseurl }}#home" title="link to {{ site.title }} about me" class="blog-button">home</a></li>
+            </ul>
+					</nav>
+
+          <nav class="cover-navigation cover-navigation--primary">
+            <ul class="navigation">
+              <li class="navigation__item"><a href="/{{ site.baseurl }}news" title="link to {{ site.title }} news " class="blog-button">news</a></li>
+            </ul>
+				 </nav>
+
+          <nav class="cover-navigation cover-navigation--primary">
+            <ul class="navigation">
+              <li class="navigation__item"><a href="/{{ site.baseurl }}research" title="link to {{ site.title }} research " class="blog-button">research</a></li>
+            </ul>
+          </nav>
+
+          <nav class="cover-navigation cover-navigation--primary">
+            <ul class="navigation">
+              <li class="navigation__item"><a href="/{{ site.baseurl }}publications_and_talks" title="link to {{ site.title }} publications & talks" class="blog-button">publications & talks</a></li>
+            </ul>
+          </nav>
+
+          <nav class="cover-navigation cover-navigation--primary">
+            <ul class="navigation">
+              <li class="navigation__item"><a href="/{{ site.baseurl }}teaching" title="link to {{ site.title }} teaching" class="blog-button">teaching</a></li>
+            </ul>
+          </nav>
+
+          <nav class="cover-navigation cover-navigation--primary">
+            <ul class="navigation">
+              <li class="navigation__item"><a href="/{{ site.baseurl }}about_me_and_cv" title="link to {{ site.title }} about me & CV" class="blog-button">about me & CV</a></li>
+            </ul>
+          </nav>
+
+          <nav class="cover-navigation cover-navigation--primary">
+            <ul class="navigation">
+              <li class="navigation__item"><a href="https://medium.com/@vlomonaco" target="_blank" title="link to the Medium blog" class="blog-button">blog</a></li>
+            </ul>
+          </nav>
+
+          <nav class="cover-navigation navigation--social">
+            <ul class="navigation">
+
+            {% if site.author.email %}
+              <!-- Email -->
+              <li class="navigation__item">
+                <a href="mailto:{{ site.author.email }}" title="Email {{ site.author.email }}" target="_blank">
+                  <i class="icon icon-mail"></i>
+                  <span class="label">Email</span>
+                </a>
+              </li>
+            {% endif %}
+         
+            {% if site.author.linkedin_username %}
+              <!-- LinkedIn -->
+              <li class="navigation__item">
+                <a href="https://www.linkedin.com/in/vincenzolomonaco/" title="Vincenzo on LinkedIn" target="_blank">
+                  <i class="icon icon-social-linkedin"></i>
+                  <span class="label">LinkedIn</span>
+                </a>
+              </li>
+            {% endif %}
+ 
+            {% if site.author.twitter_username %}
+              <!-- Scholar -->
+              <li class="navigation__item">
+                <a href="http://scholar.google.it/citations?user=rQLINtQAAAAJ&hl=it" title="Vincenzo on Scholar" target="_blank">
+                  <i class="ai ai-google-scholar ai-my"></i>
+                  <span class="label">Twitter</span>
+                </a>
+              </li>
+            {% endif %}
+
+            {% if site.author.facebook_username %}
+              <!-- Research Gate -->
+              <li class="navigation__item">
+                <a href="https://www.researchgate.net/profile/Vincenzo_Lomonaco" title="Vincenzo on Research Gate" target="_blank">
+                  <i class="ai ai-researchgate ai-my"></i>
+                  <span class="label">Facebook</span>
+                </a>
+              </li>
+            {% endif %}
+
+            {% if site.author.github_username %}
+              <!-- Academia -->
+              <li class="navigation__item">
+                <a href="http://unibo.academia.edu/VincenzoLomonaco" title="vincenzo lomonaco on Academia" target="_blank">
+                  <i class="ai ai-academia ai-my"></i>
+                  <span class="label">GitHub</span>
+                </a>
+              </li>
+            {% endif %}
+
+            <!-- RSS -->
+            <li class="navigation__item">
+              <a href="https://medium.com/feed/@vlomonaco" target="_blank" title="Subscribe" target="_blank">
+                <i class="icon icon-rss"></i>
+                <span class="label">RSS</span>
+              </a>
+            </li>
+          
+            </ul>
+          </nav>
+			
+        </div>
+
+<!--------------- new nav ------------------->
+        <div id='short-nav' class="navigation-wrapper">
+
+          <nav class="cover-navigation cover-navigation--primary">
+            <ul class="navigation">
+              <li class="navigation__item"><a class="home" href="{{ site.baseurl }}#home" title="link to {{ site.title }} about me" class="blog-button">home</a></li>
+            </ul>
+					</nav> <br>
+
+          <nav class="cover-navigation navigation--social">
+            <ul class="navigation">
+
+            {% if site.author.email %}
+              <!-- Email -->
+              <li class="navigation__item">
+                <a href="mailto:{{ site.author.email }}" title="Email {{ site.author.email }}" target="_blank">
+                  <i class="icon icon-mail"></i>
+                  <span class="label">Email</span>
+                </a>
+              </li>
+            {% endif %}
+         
+            {% if site.author.linkedin_username %}
+              <!-- LinkedIn -->
+              <li class="navigation__item">
+                <a href="https://www.linkedin.com/in/vincenzolomonaco/" title="Vincenzo on LinkedIn" target="_blank">
+                  <i class="icon icon-social-linkedin"></i>
+                  <span class="label">LinkedIn</span>
+                </a>
+              </li>
+            {% endif %}
+ 
+            {% if site.author.twitter_username %}
+              <!-- Scholar -->
+              <li class="navigation__item">
+                <a href="http://scholar.google.it/citations?user=rQLINtQAAAAJ&hl=it" title="Vincenzo on Scholar" target="_blank">
+                  <i class="ai ai-google-scholar ai-my"></i>
+                  <span class="label">Twitter</span>
+                </a>
+              </li>
+            {% endif %}
+
+            {% if site.author.facebook_username %}
+              <!-- Research Gate -->
+              <li class="navigation__item">
+                <a href="https://www.researchgate.net/profile/Vincenzo_Lomonaco" title="Vincenzo on Research Gate" target="_blank">
+                  <i class="ai ai-researchgate ai-my"></i>
+                  <span class="label">Facebook</span>
+                </a>
+              </li>
+            {% endif %}
+
+            {% if site.author.github_username %}
+              <!-- Academia -->
+              <li class="navigation__item">
+                <a href="http://unibo.academia.edu/VincenzoLomonaco" title="vincenzo lomonaco on Academia" target="_blank">
+                  <i class="ai ai-academia ai-my"></i>
+                  <span class="label">GitHub</span>
+                </a>
+              </li>
+            {% endif %}
+
+            <!-- RSS -->
+            <li class="navigation__item">
+              <a href="/{{ "feed.xml" | prepend: site.baseurl }}" title="Subscribe" target="_blank">
+                <i class="icon icon-rss"></i>
+                <span class="label">RSS</span>
+              </a>
+            </li>
+          
+            </ul>
+          </nav>
+			
+        </div>
+<!-----------end new nav ------------------>
+      </div>
+
+    </div>
+
+    <div id='particles-js' class="panel-cover--overlay"></div>
+  </div>
+</header>

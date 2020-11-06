@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+
+  <body style="overflow: hidden">
+    {% include ex_header.html %}
+		{% include header.html %}
+
+			<div class="content-wrapper">
+      <div class="content-wrapper__inner">
+        {{ content }}
+      </div>
+			</div>
+
+      {% include footer.html %}
+  </body>
+</html>
