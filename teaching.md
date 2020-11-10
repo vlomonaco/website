@@ -13,7 +13,7 @@ In this section you can find a brief summary of all my teaching experiences. In 
 <div> <img src ='/{{ site.baseurl }}images/ml.jpeg' style="width:150px; height:83; float:left;margin-right:30px"/>
 <p><strong>Teaching assistant of the course <a href="http://bias.csr.unibo.it/maltoni/ml/">Machine Learning</a></strong><br>
 <em>Università di Bolgna / University of Bologna</em>.
-October 2016 – Present (three academic years).<br>
+October 2016 – Present.<br>
 </p></div>
 
 <hr style="margin-top:10px;margin-bottom:20px; width:100%">
@@ -21,7 +21,7 @@ October 2016 – Present (three academic years).<br>
 <div> <img src ='/{{ site.baseurl }}images/arc.jpg'  style="width:150px;height:83px; float:left;margin-right:30px"/>
 <p><strong>Teaching assistant of the course <a href="http://bias.csr.unibo.it/maltoni/arc/">Computer Architectures</a></strong><br>
 <em>Università di Bolgna / University of Bologna</em>.
-October 2015 – Present (four academic years).<br>
+October 2015 – Present.<br>
 </p></div>
 
 <hr style="margin-top:30px;margin-bottom:20px;width:100%">
@@ -29,7 +29,7 @@ October 2015 – Present (four academic years).<br>
 <div> <img src ='/{{ site.baseurl }}images/cp.png' style="width:150px;height:83px; float:left;margin-right:30px"/>
 <p><strong>Teaching assistant of the course <a href="http://cdm.unimo.it/home/matematica/zanni.luca/">Parallel Computing</a></strong><br>
 <em>Università di Modena e Reggio Emilia / University of Modena and Reggio Emilia</em>.
-October 2015 – March 2016 (one academic year).<br>
+October 2015 – March 2016.<br>
 </p></div>
 
 <hr style="margin-top:30px;margin-bottom:20px;width:100%">
@@ -37,7 +37,7 @@ October 2015 – March 2016 (one academic year).<br>
 <div> <img src ='/{{ site.baseurl }}images/fun.jpg' style="width:150px;height:83px; float:left;margin-right:30px"/>
 <p><strong>Teaching assistant of the course <a href="http://www-db.deis.unibo.it/courses/FIT1-AK/?src=home">Fundamentals of Computer Science</a></strong><br>
 <em>Università di Bologna / University of Bologna</em>.
-March 2014 – March 2016 (two academic year).<br>
+March 2014 – March 2016.<br>
 </p></div>
 
 <hr style="margin-top:10px;margin-bottom:20px; width:100%">

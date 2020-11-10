@@ -26,7 +26,7 @@ While the answer to the "what" part of the question is obvious to me and it is *
 <a href="#lines"></a>
 <h3 id="lines" style="margin-bottom: 30px;">Focus Areas</h3>
 
-My research in *Continual Learning* is split in three main focus areas: **Continual Learning in Computational Neuroscience**, **Continual Learning with Deep Architectures** and **Continual Learning for Practical Applications**, all within a **Sustainable AI** development framework. 
+My research in *Continual Learning* is split in three main focus areas: **Continual Learning in Computational Neuroscience**, **Continual Learning with Deep Architectures** and **Continual Learning for Practical Applications**, all within a **Sustainable AI** developmental framework. 
 
 <div style="text-align:center; margin-bottom:40px; margin-top:0px"><img src ='/{{ site.baseurl }}images/my_research.png' width="50%" /></div>
 

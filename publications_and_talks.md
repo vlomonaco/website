@@ -2,13 +2,13 @@
 title:  "Publications & talks"
 layout: page
 ---
-In this page you can give a quick glance at my **published** works. Most of them are in the context of **Continual Deep Learning**, the subject of my PhD dissertation, or its application to various contexts such as *Internet of Things* or *Robotics*.
+In this page you can give a quick glance at my published works. Most of them are in the context of **Continual Deep Learning**, the subject of my PhD dissertation, or its application to various contexts such as *Internet of Things* or *Robotics*.
 
 <p style="background: rgba(0,0,0,0.06) none repeat scroll 0% 0%; border: 1px solid rgb(222, 222, 222); padding: 1em; border-radius: 5px; text-align: center; margin-top:20px">
-<a href="#selected">Selected Works</a> &nbsp; | &nbsp; <a href="#recent">Other Recent Works</a> &nbsp; | &nbsp; <a href="#complete">Complete list of Publications</a> &nbsp; | &nbsp; <a href="#talks">Invited Talks</a>
+<a href="#recent">Recent Works</a> &nbsp; | &nbsp; <a href="#complete">Complete list of Publications</a> &nbsp; | &nbsp; <a href="#talks">Invited Talks</a>
 </p>
 
-<h3 id="selected" style="margin-bottom: 30px;">Selected Works</h3>
+<h3 id="recent" style="margin-bottom: 30px;">Recent Works</h3>
 
 <hr style="margin-top:30px;margin-bottom:30px;width:100%">
 
@@ -69,30 +69,6 @@ _Maltoni Davide and Lomonaco Vincenzo._ **[Semi-supervised Tuning from Temporal 
 
 _Lomonaco Vincenzo and Maltoni Davide._ **[Comparing Incremental Learning Strategies for Convolutional Neural Networks][inc-strat-paper]**. IAPR Workshop on Artificial Neural Networks in Pattern Recognition. Springer International Publishing, 2016. <br>
 \[&nbsp;[article][inc-strat-paper] | [poster][inc-strat-poster] |  [slides][inc-strat-slides] | [video-presentation][inc-strat-video]&nbsp;]<br>
-
-<hr style="margin-top:30px;margin-bottom:30px;width:100%">
-
-<h3 id="recent" style="margin-bottom: 30px;">Other Recent Works</h3>
-
-<hr style="margin-top:30px;margin-bottom:30px;width:100%">
-
-_Lomonaco Vincenzo, Trotta Angelo, Ziosi Marta, De Dios Yáñez Ávila Juan, Díaz-Rodríguez Natalia._ **[Intelligent Drone Swarm for Search and Rescue Operations at Sea](https://ieeexplore.ieee.org/document/8480119/)**. AI for Social Good Workshop (NeurIPS 2018). <br>
-\[ [article](https://arxiv.org/pdf/1811.05291) \]<br>
-
-<hr style="margin-top:30px;margin-bottom:30px;width:100%">
-
-_Carpineti Claudia, Lomonaco Vincenzo, Bedogni Luca, Di Felice Marco and Bononi Luciano._ **[Custom Dual Transportation Mode Detection by Smartphone Devices Exploiting Sensor Diversity](https://ieeexplore.ieee.org/document/8480119/)**. IEEE International Conference on Pervasive Computing and Communications Workshops, 2018. <br>
-\[ [article](https://ieeexplore.ieee.org/document/8480119/) \]<br>
-
-<hr style="margin-top:30px;margin-bottom:30px;width:100%">
-
-_Russo Daniel, Lomonaco Vincenzo and Ciancarini Paolo._ **[A Machine Learning Approach for Continuous Development][raia]**. Proceedings of 5th International Conference in Software Engineering for Defense Applications, 2018. <br>
-\[ [article][raia] \] <br>
-
-<hr style="margin-top:30px;margin-bottom:30px;width:100%">
-
-_Lomonaco Vincenzo et al._ **[UCbase 2.0: ultraconserved sequences database (2014 update)][ucbase]**. Database 2014 (2014): bau062.<br>
-\[&nbsp;[article][ucbase]&nbsp;\] <br>
 
 <hr style="margin-top:30px;margin-bottom:30px;width:100%">
 
