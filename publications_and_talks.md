@@ -22,18 +22,18 @@ _Vincenzo Lomonaco, Davide Maltoni, Lorenzo Pellegrini_. **[Fine-Grained Continu
 
 <hr style="margin-top:30px;margin-bottom:30px;width:100%">
 
-_Qi She, Fan Feng, Xinyue Hao, Qihan Yang, Chuanlin Lan, Vincenzo Lomonaco, Xuesong Shi, Zhengwei Wang, Yao Guo, Yimin Zhang, Fei Qiao, Rosa H. M. Chan._ **[OpenLORIS-Object: A Dataset and Benchmark Towards Lifelong Object Recognition](https://arxiv.org/abs/1911.06487)**. ArXiv pre-print arXiv:1911.06487, 2019. <br>
-\[&nbsp;[arXiv pre-print](https://arxiv.org/abs/1911.06487) ]<br>
+_Qi She, Fan Feng, Xinyue Hao, Qihan Yang, Chuanlin Lan, Vincenzo Lomonaco, Xuesong Shi, Zhengwei Wang, Yao Guo, Yimin Zhang, Fei Qiao, Rosa H. M. Chan._ **[OpenLORIS-Object: A Dataset and Benchmark Towards Lifelong Object Recognition](https://arxiv.org/abs/1911.06487)**. IEEE International Conference on Robotics and Automation (ICRA), 2020. <br>
+\[&nbsp;[article](https://ieeexplore.ieee.org/abstract/document/9196887) | [arXiv pre-print](https://arxiv.org/abs/1911.06487) ]<br>
 
 <hr style="margin-top:30px;margin-bottom:30px;width:100%">
 
-_Vincenzo Lomonaco, Karan Desai, Eugenio Culurciello, Davide Maltoni_ **[Continual Reinforcement Learning in 3D Non-stationary Environments](https://arxiv.org/abs/1905.10112)**. Arxiv preprint arXiv:1905.10112, 2019. <br>
-\[&nbsp;[arXiv pre-print](https://arxiv.org/abs/1905.10112) ]<br>
+_Vincenzo Lomonaco, Karan Desai, Eugenio Culurciello, Davide Maltoni_ **[Continual Reinforcement Learning in 3D Non-stationary Environments](https://arxiv.org/abs/1905.10112)**. Continual Learning Workshop at CVPR, 2020. <br>
+\[&nbsp;[article](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w15/Lomonaco_Continual_Reinforcement_Learning_in_3D_Non-Stationary_Environments_CVPRW_2020_paper.pdf) | [arXiv pre-print](https://arxiv.org/abs/1905.10112) ]<br>
 
 <hr style="margin-top:30px;margin-bottom:30px;width:100%">
 
-_Jary Pomponi, Simone Scardapane, Vincenzo Lomonaco, Aurelio Uncini_ **[Efficient Continual Learning in Neural Networks with Embedding Regularization](https://arxiv.org/abs/1909.03742)**. Arxiv preprint arXiv:1909.03742v1, 2019. <br>
-\[&nbsp;[arXiv pre-print](https://arxiv.org/abs/1911.06487) ]<br>
+_Jary Pomponi, Simone Scardapane, Vincenzo Lomonaco, Aurelio Uncini_ **[Efficient Continual Learning in Neural Networks with Embedding Regularization](https://arxiv.org/abs/1909.03742)**. Elsevier Neurocomputing, Volume 397, 15 July 2020, Pages 139-148, 2020. <br>
+\[&nbsp;[article](https://www.sciencedirect.com/science/article/abs/pii/S092523122030151X) | [arXiv pre-print](https://arxiv.org/abs/1911.06487) ]<br>
 
 <hr style="margin-top:30px;margin-bottom:30px;width:100%">
 
