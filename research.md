@@ -18,9 +18,9 @@ I am now fully engaged in the study of deep learning, continual/lifelong learnin
 
 The long-term goal of my research aims at answering this single question:
 
-***What could make artificial intelligence systems as sustainable, efficient and scalable as the human brain? And how to implement it algorithmically?***
+***What could make artificial intelligence systems as sustainable (efficient & scalable) and effective as the human brain? And how to implement it algorithmically?***
 
-While the answer to the "what" part of the question is obvious to me and it is *Continual Learning*, the "how" part is the main focus of my research. This mostly means understanding the true neture of biological learning systems that learn continually: by what computational principles they are governed and how the interaction of these principles let to the emergence of intelligent behaviours; and secondly, the design, prototype and experimentation of algorithmic formulations for artificial learning systems.
+While the answer to the "what" part of the question is obvious to me and it is *Continual Learning*, the "how" part is the main focus of my research. This mostly means understanding the true nature of biological learning systems that learn continually: by what computational principles they are governed and how the interaction of these principles let to the emergence of intelligent behaviors; and secondly, the design, prototype and experimentation of algorithmic formulations for artificial learning systems.
 
 
 <a href="#lines"></a>
