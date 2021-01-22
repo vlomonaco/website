@@ -11,11 +11,15 @@ In this page you'll find something more about myself.
 
 <a href="#bio"></a>
 <h3 id="extended-bio" style="margin-bottom:30px">Short Bio</h3>
-<p>
-Vincenzo Lomonaco is a Postdoctoral Researcher at the University of Bologna, Italy and Co-Founding President of <a href="http://www.continualai.org">ContinualAI</a>, a non-profit research organization and the largest open community on Continual Learning for AI. Currently, he is also a Co-founder and Board Member of AI for People and a Director at <a href="http://www.continualai.org/lab">ContinualAI Lab</a>. Vincenzo obtained his PhD at UniBo in early 2019 with a dissertation titled <a href="http://amsdottorato.unibo.it/9073/">"Continual Learning with Deep Architectures"</a>: a natural continuation of his master's thesis on bio-inspired deep architectures he started in 2014. 
-<br>
-For more than 5 years he has been working as a teaching assistant for the “Machine Learning” and “Computer Architectures” courses in the Department of Computer Science of Engineering (DISI) in the same university. He has been a visiting research scientist at Purdue University, USA in 2017, at ENSTA ParisTech Grande École, France in 2018 and at Numenta, USA in 2019. His main research interest and passion is about Continual Learning with Deep Architectures in all its facets. In particular, he loves to study Continual Learning under three main lights: Neuroscience, AI Sustainability and Practical Applications.
-<br /></p>
+
+Vincenzo Lomonaco is a **Postdoctoral Researcher** at the **University of Bologna, Italy** (supervisor: [Davide Maltoni]()) and _Co-Founding President_ of <a href="https://www.continualai.org/">ContinualAI</a>, a non-profit research organization and the largest open community on _Continual Learning for AI_. 
+Currently, He is also a _Co-founder_ and _Board Member_ of <a href="http://AIforPeople.org">AI for People</a>, Director of the <a href="https://www.continualai.org/lab">ContinualAI Lab</a> and an active member of the <a href=""><em>European Lab for Learning and Intelligent Systems (ELLIS)</em></a>. 
+
+He obtained his PhD at UniBo in early 2019 with a dissertation titled <a href="http://amsdottorato.unibo.it/9073/"><em>"Continual Learning with Deep Architectures"</em></a> (on a topic he has been working on for more than 7 years now) which was recognized as one of the top-5 AI dissertation of 2019 by the <a href=""><em>Italian Associacion for Artificial Intelligence</em></a>.
+
+For more than 5 years he has been working as a teaching assistant for the <a href="http://bias.csr.unibo.it/maltoni/ml/">Machine Learning</a> and <a href="http://bias.csr.unibo.it/maltoni/arc/">Computer Architectures</a> courses in the Department of Computer Science of Engineering (DISI). In the past he has been a _Visiting Research Scientist_ at [AI Labs]() (supervisor: [Fabio Cuzzolin]()) in 2020, [Numenta](https://numenta.com/) (supervisor: [Jeff Hawkins]()) in 2019, at [ENSTA ParisTech](https://www.ensta-paristech.fr/) (supervisor: [David Filliat]()) in 2018 and at [Purdue University](https://www.purdue.edu/) (supervisor: [Eugenio Culurciello]()) in 2017. Even before, he was a Machine Learning Software Engineer @ <a href="http://www.moistori.com/">iDL in-line Devices</a> and a Master Student @ UniBo.
+
+His main research interest and passion is about **Continual Learning** in all its facets. In particular, he loves to study *Continual Learning* under three main lights: *Neuroscience*, *Deep Learning* and *Practical Applications*, all within a *AI Sustainability* developmental framework.
 
 <a href="#cv"></a>
 <h3 id="cv" style="margin-bottom: 40px;">Curriculum Vitae</h3>
@@ -24,10 +28,10 @@ For more than 5 years he has been working as a teaching assistant for the “Mac
 
 <!--<iframe src="https://www.dropbox.com/s/z9ypyxiwfozp9si/vincenzo_lomonaco_research_cv.pdf?raw=1" width="100%" height="600" allowfullscreen="allowfullscreen" frameborder="0"></iframe>-->
 
-<iframe src="https://www.dropbox.com/s/33drcbb1j07jqoc/vincenzo_lomonaco_cv.pdf?raw=1" width="100%" height="600" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
+<iframe src="https://www.dropbox.com/s/z9ypyxiwfozp9si/vincenzo_lomonaco_research_cv.pdf?raw=1" width="100%" height="600" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
 
 <br>
-You can find more information about my education and professional experiences on my <a href="https://it.linkedin.com/in/vincenzolomonaco">Linkedin profile</a> or you can download my official 3-pages cv in the <a href="https://www.dropbox.com/s/33drcbb1j07jqoc/vincenzo_lomonaco_cv.pdf?raw=1"  target="_blank"> pdf format</a>.
+For a more business-oriented CV you can look at my <a href="https://it.linkedin.com/in/vincenzolomonaco">Linkedin</a> or you can download my short 3-pages cv in the <a href="https://www.dropbox.com/s/33drcbb1j07jqoc/vincenzo_lomonaco_cv.pdf?raw=1"  target="_blank"> pdf format</a> (be aware I update this only occasionally).
 
 <a href="#contacts"></a>
 <h3 style="margin-bottom:30px;" id="contacts">Contacts</h3>
