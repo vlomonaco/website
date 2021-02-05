@@ -2,7 +2,8 @@
 title:  "Teaching"
 layout: page
 ---
-In this page you will find everything related to my teaching experiences. The ability to **learn** and **inspire** people has always fascinated me. This is why I love Teaching and I've been always committed to it.
+In this page you will find everything related to my teaching experiences and material. The ability to **educate** and **inspire** people has always fascinated me. This is why I love _teaching_ and I've been always committed to it.
+
 
 <h3 id="summary" style="margin-bottom: 30px;">Brief Summary</h3>
 
@@ -13,7 +14,7 @@ In this section you can find a brief summary of all my teaching experiences. In 
 <div> <img src ='/{{ site.baseurl }}images/ml.jpeg' style="width:150px; height:83; float:left;margin-right:30px"/>
 <p><strong>Teaching assistant of the course <a href="http://bias.csr.unibo.it/maltoni/ml/">Machine Learning</a></strong><br>
 <em>Università di Bolgna / University of Bologna</em>.
-October 2016 – Present.<br>
+October 2016 – February 2021.<br>
 </p></div>
 
 <hr style="margin-top:10px;margin-bottom:20px; width:100%">
@@ -21,7 +22,7 @@ October 2016 – Present.<br>
 <div> <img src ='/{{ site.baseurl }}images/arc.jpg'  style="width:150px;height:83px; float:left;margin-right:30px"/>
 <p><strong>Teaching assistant of the course <a href="http://bias.csr.unibo.it/maltoni/arc/">Computer Architectures</a></strong><br>
 <em>Università di Bolgna / University of Bologna</em>.
-October 2015 – Present.<br>
+October 2015 – February 2021.<br>
 </p></div>
 
 <hr style="margin-top:30px;margin-bottom:20px;width:100%">
