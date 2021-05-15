@@ -2,13 +2,18 @@
 title:  "Publications & talks"
 layout: page
 ---
-In this page you can give a quick glance at my published works. Most of them are in the context of **Continual Deep Learning**, the subject of my PhD dissertation, or its application to various contexts such as *Internet of Things* or *Robotics*.
+In this page you can give a quick glance at my published works. Most of them are in the context of **Continual Deep Learning** as you could have guessed from my research interests :)
 
 <p style="background: rgba(0,0,0,0.06) none repeat scroll 0% 0%; border: 1px solid rgb(222, 222, 222); padding: 1em; border-radius: 5px; text-align: center; margin-top:20px">
 <a href="#recent">Recent Works</a> &nbsp; | &nbsp; <a href="#complete">Complete list of Publications</a> &nbsp; | &nbsp; <a href="#talks">Invited Talks</a>
 </p>
 
 <h3 id="recent" style="margin-bottom: 30px;">Recent Works</h3>
+
+<p style="text-align:center; background-color:rgba(0,0,0,0.06); border: 1px solid rgb(222, 222, 222); padding:10px; margin-bottom:40px;">
+<strong><a href="https://scholar.google.it/citations?user=rQLINtQAAAAJ&hl=it" target="_blank">This section may be outdated: click here for a more updated list!</a></strong><br>
+</p>
+
 
 <hr style="margin-top:30px;margin-bottom:30px;width:100%">
 

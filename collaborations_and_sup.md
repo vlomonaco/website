@@ -12,7 +12,7 @@ In this page you will find a list of my current collaborations and supervision a
 <a name="colab"></a>
 <h3 id="colab" style="margin-bottom:30px">Collaborators</h3>
 
-I'm fortunate enough to collaborate with many talented people on my daily research, working within the [Pervasive AI Lab](http://pai.di.unipi.it/) and the [Computational Intelligence and Machine Learning Group](http://groups.di.unipi.it/groups/ciml/).
+I'm fortunate enough to collaborate with many talented people on my daily research, working within the [Pervasive AI Lab](http://pai.di.unipi.it/) and the [Computational Intelligence and Machine Learning Group](http://groups.di.unipi.it/groups/ciml/), two of the biggest ML & AI Labs in Italy. 
 
 However, I like to collaborate as much as I can with other researchers and organizations across the globe. At the moment I'm a external collaborator at the [University of Bologna]() working within the [Alma Mater Research Institute for Human-Centered (Alma-AI)](), mostly with [Davide Maltoni's group](). 
 
@@ -25,6 +25,11 @@ Last but not least, through the [ContinualAI Research]() consortium, I collabora
 <h3 id="sup" style="margin-bottom:30px">Supervision</h3>
 
 Are you a bachelor or graduate student interest in _Artificial Intelligence_ and _Machine Learning_ at the [University of Pisa]()? 
-Send me an email, I've hundreds of projects ready to challenge your best abilities!
+Send me an email, I've dozen of projects ready to challenge your best abilities!
 
-Do you want to start a [PhD]() or a [Research Fellowship]() in my lab, just get in touch, we are always looking for talented people to join our quest of making machines truly intelligent!
+Do you want to start a [PhD]() or a [Research Fellowship]() in my lab, just get in touch, we are always looking for talented people to join our quest of making machines truly intelligent. Check out the call for interest below.
+
+<p style="text-align:center;margin-top:20px;"><strong>Open Calls Below</strong></p>
+<p style="text-align:center; background-color:rgba(0,0,0,0.06); border: 1px solid rgb(222, 222, 222); padding:10px; margin-bottom:40px;">
+<a href="https://www.linkedin.com/pulse/call-interest-phd-post-doc-positions-continual-vincenzo-lomonaco-phd/">Call for Interest in PhD, Post-Doc and Visiting Scholar Positions on Continual Learning</a><br>
+</p>

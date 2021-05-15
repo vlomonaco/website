@@ -28,9 +28,9 @@ While the answer to the "what" part of the question is obvious to me and it is *
 
 My research in *Continual Learning* is split in three main focus areas: **Continual Learning in Computational Neuroscience**, **Continual Learning with Deep Architectures** and **Continual Learning for Practical Applications**, all within a **Sustainable AI** developmental framework. 
 
-<div style="text-align:center; margin-bottom:40px; margin-top:0px"><img src ='/{{ site.baseurl }}images/my_research.png' width="50%" /></div>
+<div style="text-align:center; margin-bottom:40px; margin-top:0px"><img src ='/{{ site.baseurl }}images/my_research.png' width="100%" /></div>
 
-These three different focus areas ensure that my research in continual learning is grounded in *Deep Learning* and *Neuroscience*, while also preserving a certain degree of *practical applicability*. This is important to evaluate the reachable level of robustness and maturity of our algorithmic  proposals, gather new insights, making a tangible impact in the real-world as well as making sure to direct and take responsibility for this change.
+These four different focus areas ensure that my research in continual learning is grounded in *Deep Learning* and *Neuroscience*, while also preserving a certain degree of (sustainable) *practical applicability*. This is important to evaluate the reachable level of robustness and maturity of our algorithmic  proposals, gather new insights, making a tangible impact in the real-world as well as making sure to direct and take responsibility for this change.
 
 <a href="#activities"></a>
 <h3 id="activities" style="margin-bottom: 30px;">Other Activities</h3>
