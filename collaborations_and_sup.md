@@ -31,5 +31,5 @@ Do you want to start a [PhD]() or a [Research Fellowship]() in my lab, just get 
 
 <p style="text-align:center;margin-top:20px;"><strong>Open Calls Below</strong></p>
 <p style="text-align:center; background-color:rgba(0,0,0,0.06); border: 1px solid rgb(222, 222, 222); padding:10px; margin-bottom:40px;">
-<a href="https://www.linkedin.com/pulse/call-interest-phd-post-doc-positions-continual-vincenzo-lomonaco-phd/">Call for Interest in PhD, Post-Doc and Visiting Scholar Positions on Continual Learning</a><br>
+<a href="https://vlomonaco.medium.com/call-for-interest-in-phd-post-doc-and-visiting-positions-on-continual-learning-8474ee2c6f84">Call for Interest in PhD, Post-Doc and Visiting Scholar Positions on Continual Learning</a><br>
 </p>
